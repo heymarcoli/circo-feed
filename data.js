@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-14T15:33-03:00",
+ "updated": "2026-11-14T19:46-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,20 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.filo.news/noticia/2026/11/14/boca-vs-banfield-por-la-copa-argentina-2026-a-que-hora-juegan-y-donde-ver-la-semifinal",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Boca vs. Banfield por la Copa Argentina 2026: a qué hora juegan y dónde ver la semifinal",
+   "link": "https://www.filo.news/noticia/2026/11/14/boca-vs-banfield-por-la-copa-argentina-2026-a-que-hora-juegan-y-donde-ver-la-semifinal",
+   "excerpt": "El Xeneize y el Taladro se enfrentan este sábado en Mendoza por un lugar en la final, donde ya espera Platense. El encuentro se definirá por penales en caso de empate.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/14/img11296293_re.jpg",
+   "day": "2026-11-14",
+   "ts": "2026-11-14T16:38-03:00",
+   "first_seen": "2026-11-14",
+   "og_checked": false,
+   "article": "b27256569e8e674c"
+  },
   {
    "id": "https://www.filo.news/noticia/2026/11/14/dia-mundial-de-la-diabetes-cuales-son-las-complicaciones-y-por-que-es-importante-el-diagnostico-temprano",
    "source": "Filo.News",
