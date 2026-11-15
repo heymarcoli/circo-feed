@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-15T13:49-03:00",
+ "updated": "2026-11-15T16:09-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,90 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://bencorde.com/blog/fable-5-2-41-casos-reales/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "Así está usando la gente Fable 5.2: 41 casos reales",
+   "link": "https://bencorde.com/blog/fable-5-2-41-casos-reales/",
+   "excerpt": "De un simulador de palomas a propuestas para clientes. Qué construyó la gente con Fable 5.2, cuánto cuentan que les costó y qué ideas me llevaría al trabajo.",
+   "image": "https://bencorde.com/blog/fable-5-2-41-casos-reales/imagenes/portada.jpg",
+   "day": "2026-11-15",
+   "ts": "2026-11-15T14:52-03:00",
+   "first_seen": "2026-11-15",
+   "og_checked": true,
+   "article": "f1b8ea8b5ac13535"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/15/milei-confirmo-que-buscara-la-reeleccion-presidencial-en-2027",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei confirmó que buscará la reelección presidencial en 2027",
+   "link": "https://www.filo.news/noticia/2026/11/15/milei-confirmo-que-buscara-la-reeleccion-presidencial-en-2027",
+   "excerpt": "Durante la inauguración de una muestra sobre Manuel Belgrano en la Casa Rosada, el Presidente anticipó sus objetivos económicos para un eventual segundo mandato.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/15/discursosolemnetras_el_podio1386_re.png",
+   "day": "2026-11-15",
+   "ts": "2026-11-15T14:47-03:00",
+   "first_seen": "2026-11-15",
+   "og_checked": false,
+   "article": "4c192869dfda097a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/15/ara-san-juan-a-nueve-anos-del-hundimiento-familiares-renuevan-el-reclamo-de-justicia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Ara San Juan: a nueve años del hundimiento, familiares renuevan el reclamo de justicia",
+   "link": "https://www.filo.news/noticia/2026/11/15/ara-san-juan-a-nueve-anos-del-hundimiento-familiares-renuevan-el-reclamo-de-justicia",
+   "excerpt": "La querella mayoritaria cuestionó el único fallo condenatorio dictado en Río Gallegos y aguarda la revisión en Casación.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/15/arasanjuancropped2442_re.jpeg",
+   "day": "2026-11-15",
+   "ts": "2026-11-15T14:43-03:00",
+   "first_seen": "2026-11-15",
+   "og_checked": false,
+   "article": "0cbf70fe9d19c802"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/15/la-noche-de-los-museos-2026-reunio-a-mas-de-1-4-millones-de-personas-en-buenos-aires-y-marco-un-record",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Noche de los Museos 2026 reunió a más de 1,4 millones de personas en Buenos Aires y marcó un récord",
+   "link": "https://www.filo.news/noticia/2026/11/15/la-noche-de-los-museos-2026-reunio-a-mas-de-1-4-millones-de-personas-en-buenos-aires-y-marco-un-record",
+   "excerpt": "Más de 360 espacios culturales abrieron sus puertas con exposiciones, música en vivo, talleres y recorridos gratuitos durante la madrugada porteña.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/15/202611261114909-scaled3264.jpg",
+   "day": "2026-11-15",
+   "ts": "2026-11-15T14:29-03:00",
+   "first_seen": "2026-11-15",
+   "og_checked": false,
+   "article": "be045cc2d9451964"
+  },
+  {
+   "id": "https://www.applesfera.com/curiosidades/verdadera-capsula-tiempo-distribuidor-apple-abandonado-kuwait-que-se-quedo-atrapado-90",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Una verdadera cápsula del tiempo: el distribuidor de Apple abandonado en Kuwait que se quedó atrapado en los 90",
+   "link": "https://www.applesfera.com/curiosidades/verdadera-capsula-tiempo-distribuidor-apple-abandonado-kuwait-que-se-quedo-atrapado-90",
+   "excerpt": "Sí, parece mentira, pero en Kuwait existió un local abandonado de Apple que albergaba una gran cantidad de productos y merchandising de mediados de los años 90. U na verdadera mina de oro para coleccionistas , más aún si nos fijamos en los precios que alcanzan este tipo de…",
+   "image": "https://i.blogs.es/640518/carte-apple-computer/1024_2000.jpeg",
+   "day": "2026-11-15",
+   "ts": "2026-11-15T14:01-03:00",
+   "first_seen": "2026-11-15",
+   "og_checked": false,
+   "article": "9c70d4b2ed8fe690"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/15/martin-cirio-anuncio-su-candidatura-a-diputado-y-luego-dijo-que-era-bait",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Martín Cirio anunció su candidatura a diputado y luego dijo que \"era bait\"",
+   "link": "https://www.filo.news/noticia/2026/11/15/martin-cirio-anuncio-su-candidatura-a-diputado-y-luego-dijo-que-era-bait",
+   "excerpt": "El influencer sorprendió al público en su espectáculo teatral al hablar de un proyecto político, pero horas después sembró dudas en sus redes.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/15/capturadepantalla_2026-11-15_1345051205_re.png",
+   "day": "2026-11-15",
+   "ts": "2026-11-15T13:44-03:00",
+   "first_seen": "2026-11-15",
+   "og_checked": false,
+   "article": "fa96e6294f090c26"
+  },
   {
    "id": "https://www.filo.news/noticia/2026/11/15/el-gobierno-acelera-la-agenda-en-el-congreso-y-busca-aprobar-el-presupuesto-2027-y-la-reforma-electoral",
    "source": "Filo.News",
@@ -8273,6 +8357,20 @@ window.CIRCO = {
    "first_seen": "2026-11-09",
    "og_checked": false,
    "article": "3cef39385e197154"
+  },
+  {
+   "id": "https://revistalibero.com/blogs/contenidos/la-paradoja-nacional-de-nuestro-futbol",
+   "source": "Revista Líbero",
+   "category": "La pelotita",
+   "title": "La paradoja nacional de nuestro fútbol",
+   "link": "https://revistalibero.com/blogs/contenidos/la-paradoja-nacional-de-nuestro-futbol",
+   "excerpt": "Tirando de su hilo bien pudiéramos decir que la selección española ha llevado al extremo lúdico de perfección el artículo 22 de la Constitución de 1978, que reconoce el derecho fundamental de asociación. Más",
+   "image": "http://revistalibero.com/cdn/shop/articles/32_37_MUNDIAL2026_02_1024x1024.jpg?v=1794768947",
+   "day": "2026-10-02",
+   "ts": "2026-10-02T09:00-03:00",
+   "first_seen": "2026-11-15",
+   "og_checked": true,
+   "article": "0a6a41e5ccad4a35"
   },
   {
    "id": "https://theinspiration.com/?p=54650",
