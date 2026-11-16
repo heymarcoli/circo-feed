@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-16T17:00-03:00",
+ "updated": "2026-11-16T19:35-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,160 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://musebyclios.com/?p=134742",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Hot Dogging Into the Hockey Hall of Fame",
+   "link": "https://musebyclios.com/musings/hot-dogging-into-the-hockey-hall-of-fame/?utm_source=rss&utm_medium=rss&utm_campaign=hot-dogging-into-the-hockey-hall-of-fame",
+   "excerpt": "In 2016, the Florida Panthers arrived in Montreal, played the Canadiens, and found pizza waiting for them after the game. Normally, that wouldn’t make headlines. Except Montreal’s arena dogs are legendary. According to Sports Illustrated, the players were steamed. Apparently,…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/11/16161907/dogs3.jpg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T19:00-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": true,
+   "article": "5a13e07e96bdd98c"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1034787",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+   "excerpt": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T18:34-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": true,
+   "article": "23045f150e87cc5e"
+  },
+  {
+   "id": "https://bencorde.com/blog/claude-40-tips-productividad-1000-horas/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "1000 horas con Claude: 40 cosas que me habría gustado saber el día uno",
+   "link": "https://bencorde.com/blog/claude-40-tips-productividad-1000-horas/",
+   "excerpt": "Atajos que uso, consejos que cambié y errores que ya cometí. Los 40 tips del video, con sus minutos y un punto de partida según lo que necesites.",
+   "image": "https://bencorde.com/blog/claude-40-tips-productividad-1000-horas/imagenes/classroom-portada.jpg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T18:05-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": true,
+   "article": "0899b0f73815e261"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/diego-tomasi-presenta-su-primer-libro-la-vida-fragil-de-aldo-musarra",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Diego Tomasi presenta su primer libro \"La vida frágil de Aldo Musarra\"",
+   "link": "https://www.filo.news/noticia/2026/11/16/diego-tomasi-presenta-su-primer-libro-la-vida-fragil-de-aldo-musarra",
+   "excerpt": "La novela es la primera del sello editorial independiente Bardo Sur, dirigido por Marcelo Figueras y Flavia Vitale.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/photo202611-16_16-29-106599_re.jpg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T17:58-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "3ff89be178327c59"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1034815",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "California sues OpenAI over rogue AI hacking incidents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+   "excerpt": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T17:46-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": true,
+   "article": "00905f97de508def"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/album-de-familia-la-historia-de-claudia-pia-baudracco-y-maria-belen-correa-llega-al-streaming",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Álbum de familia\": la historia de Claudia Pía Baudracco y María Belén Correa llega al streaming",
+   "link": "https://www.filo.news/noticia/2026/11/16/album-de-familia-la-historia-de-claudia-pia-baudracco-y-maria-belen-correa-llega-al-streaming",
+   "excerpt": "La película se sumerge en las historias de las personas travestis y trans que, aún después del regreso de la democracia en 1983, continuaron atravesando persecución policial, violencia y exclusión.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/adfstill057630_re.jpg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T17:40-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "e5886b6ef885f770"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1034694",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+   "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+   "excerpt": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0%2C10.729149249175%2C100%2C78.54170150165&w=1200",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T17:32-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": true,
+   "article": "3d92f19c1a857788"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/lionel-scaloni-hablo-en-la-antesala-del-amistoso-ante-costa-rica-el-rival-de-manana-es-importante-y-juega-bien",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Lionel Scaloni habló en la antesala del amistoso ante Costa Rica: \"El rival de mañana es importante y juega bien\"",
+   "link": "https://www.filo.news/noticia/2026/11/16/lionel-scaloni-hablo-en-la-antesala-del-amistoso-ante-costa-rica-el-rival-de-manana-es-importante-y-juega-bien",
+   "excerpt": "El entrenador de la Selección Argentina brindó una conferencia de prensa horas antes del compromiso ante el conjunto costarricense en Córdoba.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/hxrp4bfwcaa1phb5914_re.jpg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T17:29-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "cece6f6af0ee78a3"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1034668",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "US data centers now burn more electricity than a midsized country",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+   "excerpt": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T17:27-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": true,
+   "article": "45c7fe61e5d2b9ea"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/kicillof-acuso-a-milei-de-adulterar-la-historia-y-cuestiono-su-plan-para-eliminar-las-paso",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Kicillof acusó a Milei de “adulterar la historia” y cuestionó su plan para eliminar las PASO",
+   "link": "https://www.filo.news/noticia/2026/11/16/kicillof-acuso-a-milei-de-adulterar-la-historia-y-cuestiono-su-plan-para-eliminar-las-paso",
+   "excerpt": "El gobernador bonaerense cuestionó las declaraciones del Presidente sobre Manuel Belgrano, rechazó la eliminación de las PASO y lo acusó de modificar las reglas electorales para favorecer su reelección.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/202610261023900-scaled1547_re.jpg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T16:55-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "77f131effd156579"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1034512",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+   "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+   "excerpt": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart,…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T16:50-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": true,
+   "article": "24ee1af8e468758c"
+  },
+  {
    "id": "https://www.theverge.com/?p=1034581",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -91,6 +245,20 @@ window.CIRCO = {
    "first_seen": "2026-11-16",
    "og_checked": true,
    "article": "d146097754cee07a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/tras-la-explosion-fatal-en-remedios-de-escalada-vecinos-de-lanus-se-movilizan-contra-metrogas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Tras la explosión fatal en Remedios de Escalada, vecinos de Lanús se movilizan contra Metrogas",
+   "link": "https://www.filo.news/noticia/2026/11/16/tras-la-explosion-fatal-en-remedios-de-escalada-vecinos-de-lanus-se-movilizan-contra-metrogas",
+   "excerpt": "Buscan definir en asamblea los próximos pasos del reclamo luego de la tragedia de la semana pasada que provocó graves daños materiales y decenas de heridos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/filo1-_2026-11-16t184626.9096304_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T15:57-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "355fc0d5ce8d0ec9"
   },
   {
    "id": "https://www.theverge.com/?p=1034590",
@@ -149,6 +317,20 @@ window.CIRCO = {
    "article": "28ab38e8bee20fa5"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/16/el-papa-leon-xiv-cerro-su-gira-por-sudamerica-con-una-misa-multitudinaria",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El papa León XIV cerró su gira por Sudamérica con una misa multitudinaria",
+   "link": "https://www.filo.news/noticia/2026/11/16/el-papa-leon-xiv-cerro-su-gira-por-sudamerica-con-una-misa-multitudinaria",
+   "excerpt": "Ante un millón y medio de fieles en Lima, el pontífice puso fin a un viaje de 12 días por Uruguay, la Argentina y Perú que convocó a 13 millones de personas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/filo1-_2026-11-16t182213.9139922_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T15:14-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "c82058e799e7188b"
+  },
+  {
    "id": "https://www.applesfera.com/ios/segunda-beta-para-desarrolladores-ios-27-3-trae-sorpresa-al-iphone-duo-reconocimiento-facial-necesidad-face-id",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -177,6 +359,20 @@ window.CIRCO = {
    "article": "7a16ce6d8cb22829"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/16/la-bomba-tucumana-hablo-sobre-la-muerte-de-su-sobrino-fue-absurdo-queremos-saber-que-paso",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Bomba Tucumana habló sobre la muerte de su sobrino: \"Fue absurdo, queremos saber qué pasó\"",
+   "link": "https://www.filo.news/noticia/2026/11/16/la-bomba-tucumana-hablo-sobre-la-muerte-de-su-sobrino-fue-absurdo-queremos-saber-que-paso",
+   "excerpt": "La cantante se mostró devastada tras el fallecimiento del niño de 12 años que se encontraba jugando a la pelota y sufrió un accidente que derivó en su muerte.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/labomba3069_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T15:01-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "857185e5977058d0"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/16/clara-cava-presenta-no-me-tokes-el-pelo",
    "source": "Filo.News",
    "category": "Notis",
@@ -189,6 +385,20 @@ window.CIRCO = {
    "first_seen": "2026-11-16",
    "og_checked": false,
    "article": "17a9ad8858d1fd97"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/nuevo-superavit-fiscal-octubre-cerro-con-un-saldo-positivo-de-usd1-578-627-millones",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Nuevo superávit fiscal: octubre cerró con un saldo positivo de $1.578.627 millones",
+   "link": "https://www.filo.news/noticia/2026/11/16/nuevo-superavit-fiscal-octubre-cerro-con-un-saldo-positivo-de-usd1-578-627-millones",
+   "excerpt": "Los ingresos totales crecieron por encima de los gastos primarios, impulsados por una recaudación tributaria que superó la inflación minorista.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/filo1-_2026-11-16t172311.3913786_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T14:28-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "728749ebc7cbd787"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/16/taichu-luz-gaggi-y-cindy-cats-se-unen-para-llevar-la-musica-a-nuevos-territorios",
@@ -469,6 +679,20 @@ window.CIRCO = {
    "first_seen": "2026-11-16",
    "og_checked": true,
    "article": "0acb5772c2089d6d"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/tras-el-escandalo-por-infidelidades-y-supuesto-espionaje-jensen-huang-analiza-volver-como-ceo-de-nvidia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Tras el escándalo por infidelidades y supuesto espionaje, Jensen Huang analiza volver como CEO de NVIDIA",
+   "link": "https://www.filo.news/noticia/2026/11/16/tras-el-escandalo-por-infidelidades-y-supuesto-espionaje-jensen-huang-analiza-volver-como-ceo-de-nvidia",
+   "excerpt": "El ex director ejecutivo habría recurrido a sus aliados tecnológicos para presionar a la directiva de la compañía para que lo reincorpore.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/noname1693_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T11:29-03:00",
+   "first_seen": "2026-11-16",
+   "og_checked": false,
+   "article": "f9703b9b64619a37"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/16/nvidia",
@@ -850,8 +1074,8 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1033355",
-   "source": "The Verge · IA",
-   "category": "Tech + la IA",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
    "excerpt": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical…",
