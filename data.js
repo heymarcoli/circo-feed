@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-17T15:57-03:00",
+ "updated": "2026-11-17T18:24-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,62 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1035957",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "excerpt": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0%2C10.755339554057%2C100%2C78.489320891885&w=1200",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T18:00-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": true,
+   "article": "3330f1546ea99d7f"
+  },
+  {
+   "id": "https://bencorde.com/blog/gpt-6-2-astra-sol-vs-fable/",
+   "source": "Benjamín Cordero",
+   "category": "Tech + la IA",
+   "title": "GPT-6.2 Astra vs. Fable 5.2: de dónde sale el famoso 5%",
+   "link": "https://bencorde.com/blog/gpt-6-2-astra-sol-vs-fable/",
+   "excerpt": "Astra gastó US$2,89 frente a US$60,05 de Fable en Agents’ Last Exam. Así cambia la comparación cuando miras el índice independiente y el costo de Sol.",
+   "image": "https://bencorde.com/blog/gpt-6-2-astra-sol-vs-fable/imagenes/portada.jpg",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T17:36-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": true,
+   "article": "55c481c73b0bd31f"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/17/paraguay-renuncio-el-fiscal-general-que-tenia-a-su-cargo-la-investigacion-por-la-caida-del-ueno-bank",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Paraguay: renunció el fiscal general que tenía a su cargo la investigación por la caída del Ueno Bank",
+   "link": "https://www.filo.news/noticia/2026/11/17/paraguay-renuncio-el-fiscal-general-que-tenia-a-su-cargo-la-investigacion-por-la-caida-del-ueno-bank",
+   "excerpt": "La decisión se produjo luego de que diputados de la oposición y disidentes del oficialismo impulsaran un proceso por presunto mal desempeño de funciones.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/17/disenosin_título_-_2026-11-17t172642.3239981_re.png",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T17:05-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "1ccaa140a9cdcc65"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1035756",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "excerpt": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T15:58-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": true,
+   "article": "a28278e0368c9670"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/17/miranda-de-la-serna-hablo-de-la-salida-de-su-mama-de-casado-con-hijos-ella-sufrio-muchisimo",
    "source": "Filo.News",
    "category": "Notis",
@@ -107,6 +163,20 @@ window.CIRCO = {
    "article": "c75169de8501c046"
   },
   {
+   "id": "https://www.theverge.com/?p=1035437",
+   "source": "The Verge · Apple",
+   "category": "Mundo Apple",
+   "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+   "link": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+   "excerpt": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T14:42-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": true,
+   "article": "027579a9ef505833"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/17/el-gobierno-sostuvo-que-los-jubilados-estan-mejor-que-en-2023",
    "source": "Filo.News",
    "category": "Notis",
@@ -135,6 +205,20 @@ window.CIRCO = {
    "article": "bc7720c6a3b78230"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/17/preocupacion-en-estados-unidos-tras-la-caida-de-la-red-secreta-de-la-nsa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Preocupación en Estados Unidos tras la caída de la red secreta de la NSA",
+   "link": "https://www.filo.news/noticia/2026/11/17/preocupacion-en-estados-unidos-tras-la-caida-de-la-red-secreta-de-la-nsa",
+   "excerpt": "El episodio ocurre en medio de una seguidilla de problemas técnicos en sistemas aéreos, servicios en la nube y entidades bancarias del país.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/17/filo1-_2026-11-17t174534.4992695_re.png",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T14:07-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "7d54e69160a64fec"
+  },
+  {
    "id": "https://www.theverge.com/?p=1035420",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -161,6 +245,20 @@ window.CIRCO = {
    "first_seen": "2026-11-17",
    "og_checked": false,
    "article": "0cc3f72a52e3cfa4"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/17/milei-convocara-a-sesiones-extraordinarias-en-las-primeras-semanas-de-diciembre",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei convocará a sesiones extraordinarias en las primeras semanas de diciembre",
+   "link": "https://www.filo.news/noticia/2026/11/17/milei-convocara-a-sesiones-extraordinarias-en-las-primeras-semanas-de-diciembre",
+   "excerpt": "En carpeta figuran el Presupuesto, la eliminación de las PASO, la Ley Malvinas y la reforma del Banco Central, aunque el temario oficial aún no fue definido.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/17/filo1-_2026-11-17t160839.1856541_re.png",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T13:21-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "f38ca3aa64a338c0"
   },
   {
    "id": "https://www.theverge.com/?p=1035410",
