@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-16T19:35-03:00",
+ "updated": "2026-11-17T05:35-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,132 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.reasonwhy.es/actualidad/papa-johns-pizzas-gratis-fotografias-inteligencia-artificial-calidad",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Papa John’s ofrece pizza gratis a cambio de fotografías para analizar su calidad con inteligencia artificial",
+   "link": "https://www.reasonwhy.es/actualidad/papa-johns-pizzas-gratis-fotografias-inteligencia-artificial-calidad",
+   "excerpt": "La cadena invita a sus consumidores a enviar fotografías de sus pedidos y compartir su opinión para detectar problemas de calidad.",
+   "image": "https://www.reasonwhy.es/media/library/papa-johns-foto-pizza.jpg",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T05:25-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "e023f34ce611633b"
+  },
+  {
+   "id": "https://www.applesfera.com/rumores/asi-seran-iphone-20-aniversario-filtraciones-mezcla-apple-watch-iphone-air",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Así serán los iPhone del 20 aniversario, según las filtraciones: una mezcla entre Apple Watch y iPhone Air",
+   "link": "https://www.applesfera.com/rumores/asi-seran-iphone-20-aniversario-filtraciones-mezcla-apple-watch-iphone-air",
+   "excerpt": "Si eres de los que les gusta seguir toda la rumorología en torno a Apple, siéntate y ponte cómodo, pero aprieta el cinturón porque a casi un año vista, las filtraciones parecen tomar velocidad de crucero. Apple, que empezó el desarrollo de los iPhone del 20 aniversario hace…",
+   "image": "https://i.blogs.es/771516/concepto-iphone-20-aniversario/1024_2000.jpeg",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T05:01-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "9c4969793c1ded9f"
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/jumpers-nachos-ignacios-campana-ignatius-farray",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Jumpers lanza “Ignacios”, unos nachos sin forma de nachos que comunica con Ignatius Farray",
+   "link": "https://www.reasonwhy.es/actualidad/jumpers-nachos-ignacios-campana-ignatius-farray",
+   "excerpt": "La marca comunica su innovación de producto en una campaña surrealista protagonizada por Ignatius Farray.",
+   "image": "https://www.reasonwhy.es/media/library/ignacios-jumpers.jpg",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T04:46-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "5c661cffe2324c0e"
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/nike-sustituye-adidas-balon-oficial-champions-league-2027",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Nike sustituirá a Adidas como proveedor del balón de la Champions League después de 26 años",
+   "link": "https://www.reasonwhy.es/actualidad/nike-sustituye-adidas-balon-oficial-champions-league-2027",
+   "excerpt": "La marca estadounidense también suministrará los balones de la Europa League y la Conference League desde 2027.",
+   "image": "https://www.reasonwhy.es/media/library/balon-nike-champions-league.jpg",
+   "day": "2026-11-17",
+   "ts": "2026-11-17T04:27-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "574ff4083beca693"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=202095",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Congreso aprueba congelamiento de los precios de los combustibles; oposición queda con mayoría en comisión que revisará acusación contra Rabat, y Kast deja ofrenda a Ho Chi Minh en Vietnam",
+   "link": "https://www.ciperchile.cl/2026/11/16/radar-16-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-16-11-26",
+   "excerpt": "La entrada Congreso aprueba congelamiento de los precios de los combustibles; oposición queda con mayoría en comisión que revisará acusación contra Rabat, y Kast deja ofrenda a Ho Chi Minh en Vietnam se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T21:58-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": true,
+   "article": "d44d9e2f00cdbdc2"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1035027",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "excerpt": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T20:20-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": true,
+   "article": "ac515713d6d81b9a"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=202085",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Caso Sartor: cuentas de Clark registran pagos por más de $2 mil millones de sociedades ligadas a Victoriano Cerda y Patricio Kiblisky",
+   "link": "https://www.ciperchile.cl/2026/11/16/caso-sartor-cuentas-de-clark-registran-pagos-por-mas-de-2-mil-millones-de-sociedades-ligadas-a-victoriano-cerda-y-patricio-kiblisky/?utm_source=rss&utm_medium=rss&utm_campaign=caso-sartor-cuentas-de-clark-registran-pagos-por-mas-de-2-mil-millones-de-sociedades-ligadas-a-victoriano-cerda-y-patricio-kiblisky",
+   "excerpt": "La entrada Caso Sartor: cuentas de Clark registran pagos por más de $2 mil millones de sociedades ligadas a Victoriano Cerda y Patricio Kiblisky se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/WEB_CLARK.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T20:02-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": true,
+   "article": "5bd9d786b5617718"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/franco-colapinto-palpito-el-gp-de-las-vegas-trabajaremos-para-tener-un-fin-de-semana-tranquilo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Franco Colapinto palpitó el GP de Las Vegas: \"Trabajaremos para tener un fin de semana tranquilo\"",
+   "link": "https://www.filo.news/noticia/2026/11/16/franco-colapinto-palpito-el-gp-de-las-vegas-trabajaremos-para-tener-un-fin-de-semana-tranquilo",
+   "excerpt": "El piloto argentino adelantó los desafíos del equipo Alpine en la carrera que se desarrollará en suelo estadounidense.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/20261106t133550z_1115574235_up1emb611ro5b_rtrmadp_3_motor-f1-brazil7708_re.jpg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T19:54-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "8d16b3b44531acd1"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/trump-endurece-el-control-de-chips-de-ia-antes-de-reunirse-con-xi-jinping",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Trump endurece el control de chips de IA antes de reunirse con Xi Jinping",
+   "link": "https://www.filo.news/noticia/2026/11/16/trump-endurece-el-control-de-chips-de-ia-antes-de-reunirse-con-xi-jinping",
+   "excerpt": "Washington exigirá licencias especiales a operadores extranjeros y fijará controles extra para envíos a Singapur, Tailandia, Malasia, Indonesia y Brasil.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/filo1-_2026-11-16t202611.8815782_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T19:16-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "4cd2b4a402a59a50"
+  },
+  {
    "id": "https://musebyclios.com/?p=134742",
    "source": "Muse by Clio",
    "category": "Publi",
@@ -79,6 +205,20 @@ window.CIRCO = {
    "article": "5a13e07e96bdd98c"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/16/la-uba-abrio-la-inscripcion-al-cbc-2027-hasta-cuando-hay-tiempo-y-cuales-son-los-requisitos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La UBA abrió la inscripción al CBC 2027: hasta cuándo hay tiempo y cuáles son los requisitos",
+   "link": "https://www.filo.news/noticia/2026/11/16/la-uba-abrio-la-inscripcion-al-cbc-2027-hasta-cuando-hay-tiempo-y-cuales-son-los-requisitos",
+   "excerpt": "La Universidad de Buenos Aires habilitó el período de inscripción para quienes quieran comenzar una carrera en 2027. El trámite estará disponible hasta el 26 de noviembre y se realiza en tres etapas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/uba200anos_mesa-de-trabajo-1-1-2048x10243450_re.jpeg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T18:44-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "3df75f179be47003"
+  },
+  {
    "id": "https://www.theverge.com/?p=1034787",
    "source": "The Verge · IA",
    "category": "Tech + la IA",
@@ -91,6 +231,20 @@ window.CIRCO = {
    "first_seen": "2026-11-16",
    "og_checked": true,
    "article": "23045f150e87cc5e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/caso-usdlibra-novelli-busca-apartar-a-la-jueza-que-habilito-a-los-querellantes",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Caso $LIBRA: Novelli busca apartar a la jueza que habilitó a los querellantes",
+   "link": "https://www.filo.news/noticia/2026/11/16/caso-usdlibra-novelli-busca-apartar-a-la-jueza-que-habilito-a-los-querellantes",
+   "excerpt": "La Sala II de Casación debe resolver primero este planteo antes de decidir si reabre la discusión sobre el cierre de la investigación.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/filo1-_2026-11-16t200859.3444396_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T18:09-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "ab2594e2c953d4b4"
   },
   {
    "id": "https://bencorde.com/blog/claude-40-tips-productividad-1000-horas/",
@@ -126,7 +280,7 @@ window.CIRCO = {
    "category": "Tech + la IA",
    "title": "California sues OpenAI over rogue AI hacking incidents",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-   "excerpt": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous…",
+   "excerpt": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous…",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
    "day": "2026-11-16",
    "ts": "2026-11-16T17:46-03:00",
@@ -147,6 +301,20 @@ window.CIRCO = {
    "first_seen": "2026-11-16",
    "og_checked": false,
    "article": "e5886b6ef885f770"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/melody-luz-sobre-el-hate-que-recibe-en-redes-por-culpa-de-alex-caniggia",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Melody Luz sobre el hate que recibe en redes por culpa de Alex Caniggia",
+   "link": "https://www.filo.news/noticia/2026/11/16/melody-luz-sobre-el-hate-que-recibe-en-redes-por-culpa-de-alex-caniggia",
+   "excerpt": "La bailarina expresó su dolor ante la catarata de mensajes que le llegan por los dichos de su pareja.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/melody2164_re.jpg",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T17:33-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "d2b160a71e994795"
   },
   {
    "id": "https://www.theverge.com/?p=1034694",
@@ -191,6 +359,20 @@ window.CIRCO = {
    "article": "45c7fe61e5d2b9ea"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/16/salta-se",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Calendario electoral 2027: Salta desdobla sus comicios y votará gobernador el 16 de mayo",
+   "link": "https://www.filo.news/noticia/2026/11/16/salta-se",
+   "excerpt": "La decisión de Gustavo Sáenz se suma a la de Neuquén y Tucumán, que también despegarán sus votaciones de la carrera presidencial de octubre.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/filo1-_2026-11-16t195814.0888160_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T17:22-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": ""
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/16/kicillof-acuso-a-milei-de-adulterar-la-historia-y-cuestiono-su-plan-para-eliminar-las-paso",
    "source": "Filo.News",
    "category": "Notis",
@@ -217,6 +399,20 @@ window.CIRCO = {
    "first_seen": "2026-11-16",
    "og_checked": true,
    "article": "24ee1af8e468758c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/16/bariloche-renuncio-el-convencional-que-reivindico-a-videla-y-juro-entre-abucheos",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Bariloche: renunció el convencional que reivindicó a Videla y juró entre abucheos",
+   "link": "https://www.filo.news/noticia/2026/11/16/bariloche-renuncio-el-convencional-que-reivindico-a-videla-y-juro-entre-abucheos",
+   "excerpt": "Adrián Grau dejó su banca a cinco días de asumir tras recibir denuncias penales, reclamos opositores y críticas de sindicatos por sus posteos sobre la dictadura.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/16/filo1-_2026-11-16t193731.2755233_re.png",
+   "day": "2026-11-16",
+   "ts": "2026-11-16T16:38-03:00",
+   "first_seen": "2026-11-17",
+   "og_checked": false,
+   "article": "432c6bcf16fa5b89"
   },
   {
    "id": "https://www.theverge.com/?p=1034581",
@@ -516,7 +712,7 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/apple-tv/nuevo-apple-tv-tiene-doble-ram-apps-no-pueden-aprovecharla",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "El nuevo Apple TV tiene el doble de RAM, pero las apps no pueden aprovecharla",
+   "title": "El nuevo Apple TV duplica su memoria, pero el sistema no deja que las apps la usen",
    "link": "https://www.applesfera.com/apple-tv/nuevo-apple-tv-tiene-doble-ram-apps-no-pueden-aprovecharla",
    "excerpt": "Por mucho que nos guste el nuevo Apple TV , justificar 349 euros en un dispositivo para ver series se hace complicado . Al menos nos quedaba la esperanza, o la justificación, de que por dentro llevaba el chip A19. U n procesador increíblemente potente, con 8 GB de RAM (el doble…",
    "image": "https://i.blogs.es/a6210c/apple.t/1024_2000.jpeg",
@@ -782,7 +978,7 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/curiosidades/alguien-pregunto-donde-ir-a-llorar-apple-park-mensaje-se-lleno-respuestas",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "Alguien preguntó dónde ir a llorar en Apple Park. El mensaje se llenó de respuestas",
+   "title": "Un ex empleado en Apple cuenta cómo es trabajar en el Apple Park (y hasta dónde se puede ir llorar)",
    "link": "https://www.applesfera.com/curiosidades/alguien-pregunto-donde-ir-a-llorar-apple-park-mensaje-se-lleno-respuestas",
    "excerpt": "El Apple Park es la meca de los fanboys de Apple. Lo conocemos por sus keynotes, por sus parques y por su huerto ... aunque sobre todo por ese anillo enorme donde están las oficinas de Apple. Quizás sean las oficinas más famosas del mundo , pero casi nunca vemos cómo son por…",
    "image": "https://i.blogs.es/cd2039/apple-park/1024_2000.jpeg",
@@ -9939,20 +10135,6 @@ window.CIRCO = {
    "first_seen": "2026-11-09",
    "og_checked": true,
    "article": "206a158507a939e9"
-  },
-  {
-   "id": "https://bencorde.com/blog/curso-codex-completo-espanol/",
-   "source": "Benjamín Cordero",
-   "category": "Tech + la IA",
-   "title": "Curso de Codex gratis: 10 proyectos para empezar desde cero",
-   "link": "https://bencorde.com/blog/curso-codex-completo-espanol/",
-   "excerpt": "De tu primera web a un corto 3D y tu segundo cerebro. El recorrido completo para construir con Codex, desde cero y paso a paso.",
-   "image": "https://bencorde.com/blog/curso-codex-completo-espanol/imagenes/portada-tarjeta.png",
-   "day": "2026-09-17",
-   "ts": "2026-09-17T16:03-03:00",
-   "first_seen": "2026-11-09",
-   "og_checked": true,
-   "article": "eba160369733664f"
   }
  ]
 };
