@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-18T15:39-03:00",
+ "updated": "2026-11-18T17:56-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,90 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.theverge.com/?p=1036749",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Trump’s latest land grab is an AI hub in the Philippines",
+   "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+   "excerpt": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T16:40-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": true,
+   "article": "8286da1fb3b702a5"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1035924",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+   "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+   "excerpt": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/acastro_STK083_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T16:29-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": true,
+   "article": "06ebd08f939ca6c7"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=202188",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Presupuesto 2027: expertos alertan por rebajas en programas medioambientales y de eficiencia energética",
+   "link": "https://www.ciperchile.cl/2026/11/18/presupuesto-2027-expertos-alertan-por-rebajas-en-programas-medioambientales-y-de-eficiencia-energetica/?utm_source=rss&utm_medium=rss&utm_campaign=presupuesto-2027-expertos-alertan-por-rebajas-en-programas-medioambientales-y-de-eficiencia-energetica",
+   "excerpt": "La entrada Presupuesto 2027: expertos alertan por rebajas en programas medioambientales y de eficiencia energética se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/presupuesto-2027_web.png",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T16:24-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": true,
+   "article": "d4e1a3ee52c63108"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/18/mariana-fabbiani-hablo-de-sobre-la-salud-de-mariano-chihade-esto-tambien-pasara",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Mariana Fabbiani habló de sobre la salud de Mariano Chihade: \"Esto también pasará\"",
+   "link": "https://www.filo.news/noticia/2026/11/18/mariana-fabbiani-hablo-de-sobre-la-salud-de-mariano-chihade-esto-tambien-pasara",
+   "excerpt": "La conductora se expresó en las redes luego de que a su marido le detectaran una “imagen nodular” en el cerebro y fuera intervenido de urgencia.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/18/mariana4812_re.jpg",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T16:13-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": false,
+   "article": "3479edfbaf18cd34"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1036935",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+   "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+   "excerpt": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T16:07-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": true,
+   "article": "44dd0bb6a6d130c2"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/18/hipnotica-y-un-show-especial-junto-a-juan-ingaramo-y-tomas-ferrero",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Hipnótica y un show especial junto a Juan Ingaramo y Tomás Ferrero",
+   "link": "https://www.filo.news/noticia/2026/11/18/hipnotica-y-un-show-especial-junto-a-juan-ingaramo-y-tomas-ferrero",
+   "excerpt": "El dúo cordobés compartirá escenario con el músico y el integrante de Rayos Láser en una fecha que celebra la amistad y los vínculos construidos desde sus comienzos en la escena musical de Córdoba. La cita será este jueves 19 de noviembre a las 23, con entrada libre y gratuita.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/18/21)8531_re.jpeg",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T15:39-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": false,
+   "article": "6cb7a922539fde92"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/18/la-justicia-ordeno-a-la-anses-dejar-de-descontarle-el-20-de-la-pension-a-cristina-kirchner",
    "source": "Filo.News",
    "category": "Notis",
@@ -77,6 +161,20 @@ window.CIRCO = {
    "first_seen": "2026-11-18",
    "og_checked": false,
    "article": "22195d8350d55b76"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/18/alerta-por-un-ciclon-extratropical-que-mantiene-la-inestabilidad-en-buenos-aires",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Alerta por un ciclón extratropical que mantiene la inestabilidad en Buenos Aires",
+   "link": "https://www.filo.news/noticia/2026/11/18/alerta-por-un-ciclon-extratropical-que-mantiene-la-inestabilidad-en-buenos-aires",
+   "excerpt": "Este fenómeno se ubica sobre el Mar Argentino, frente a las costas del sudeste de la provincia, y genera tormentas, de características supercelulares y con larga vida.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/18/17189703072406213017167_re.jpg",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T15:35-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": false,
+   "article": "3bb98a653ef09dd7"
   },
   {
    "id": "https://www.theverge.com/?p=1036776",
@@ -107,6 +205,20 @@ window.CIRCO = {
    "article": "8fe6fa6718f8380d"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/18/abrio-la-inscripcion-a-generacion-river-el-programa-de-formacion-en-liderazgo-y-voluntariado-para-jovenes",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Abrió la inscripción a Generación River, el programa de formación en liderazgo y voluntariado para jóvenes",
+   "link": "https://www.filo.news/noticia/2026/11/18/abrio-la-inscripcion-a-generacion-river-el-programa-de-formacion-en-liderazgo-y-voluntariado-para-jovenes",
+   "excerpt": "La iniciativa busca formar jóvenes líderes vinculados al deporte y a la comunidad, brindándoles herramientas y capacidades para ejercer un liderazgo orientado al bien común, diseñar emprendimientos sociales y promover el trabajo colaborativo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/18/carp20265963_re.jpg",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T15:22-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": false,
+   "article": "b8d1d550b59ee913"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/18/justo-fernando-barrientos-fue-condenado-a-prision-perpetua-por-el-triple-lesbicidio-de-barracas",
    "source": "Filo.News",
    "category": "Notis",
@@ -119,6 +231,20 @@ window.CIRCO = {
    "first_seen": "2026-11-18",
    "og_checked": false,
    "article": "40531c5ba9d6ca4a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/18/sin-listas-colectoras-el-oficialismo-busca-firmar-el-dictamen-por-las-paso",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Sin listas colectoras, el oficialismo busca firmar el dictamen por las PASO",
+   "link": "https://www.filo.news/noticia/2026/11/18/sin-listas-colectoras-el-oficialismo-busca-firmar-el-dictamen-por-las-paso",
+   "excerpt": "La iniciativa también habilita la boleta única en elecciones concurrentes y levanta las restricciones comerciales y culturales durante los días de votación.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/18/filo1-_2026-11-18t174242.8628272_re.png",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T15:04-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": false,
+   "article": "13f276bc505dfc0b"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/18/underworld-llega-a-la-argentina-el-26-de-noviembre-en-mandarine-park",
@@ -189,6 +315,20 @@ window.CIRCO = {
    "first_seen": "2026-11-18",
    "og_checked": false,
    "article": "8e4145ee8a361e4a"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/18/marco-rubio-aseguro-que-hay-cero-evidencia-de-un-ataque-tras-los-cortes-en-ee-uu",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Marco Rubio aseguró que hay \"cero evidencia\" de un ataque tras los cortes en EE. UU.",
+   "link": "https://www.filo.news/noticia/2026/11/18/marco-rubio-aseguro-que-hay-cero-evidencia-de-un-ataque-tras-los-cortes-en-ee-uu",
+   "excerpt": "La intervención del funcionario contrastó con la postura despreocupada de Donald Trump, quien minimizó los problemas técnicos en el sistema bancario.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/18/filo1-_2026-11-18t172408.4103113_re.png",
+   "day": "2026-11-18",
+   "ts": "2026-11-18T14:20-03:00",
+   "first_seen": "2026-11-18",
+   "og_checked": false,
+   "article": "a0f4b68d56164fa4"
   },
   {
    "id": "https://www.applesfera.com/accesorios/intentan-abrir-homeview-acaban-rompiendo-piezas-dentro",
@@ -1018,7 +1158,7 @@ window.CIRCO = {
   },
   {
    "id": "https://www.theverge.com/?p=1035756",
-   "source": "The Verge · IA",
+   "source": "The Verge · Google",
    "category": "Tech + la IA",
    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
    "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
