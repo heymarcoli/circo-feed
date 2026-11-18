@@ -15,7 +15,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 DATA = Path(__file__).resolve().parent.parent / "data.js"
-URL = os.environ.get("CIRCO_URL") or "https://mrmarcoai.github.io/circo-feed/"
+URL = os.environ.get("CIRCO_URL") or "https://heymarcoli.github.io/circo-feed/"
 PER_SOURCE = 5
 
 

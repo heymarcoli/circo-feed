@@ -27,7 +27,7 @@ FULL_MIN = 1200  # caracteres desde los que el contenido del feed cuenta como no
 TZ = ZoneInfo("America/Santiago")
 KEEP_DAYS = 60
 EXCERPT = 280
-UA = "Mozilla/5.0 (CIRCO FEED; +https://github.com/MrMarcoAI/circo-feed)"
+UA = "Mozilla/5.0 (CIRCO FEED; +https://github.com/heymarcoli/circo-feed)"
 
 
 def get(url, limit=None, timeout=20):

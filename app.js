@@ -517,7 +517,7 @@ viewHead.addEventListener('submit', async e => {
 });
 
 // Agregar un feed escribe la línea en feeds.txt del repo (con el token del dispositivo) y lanza la actualización
-const REPO = 'https://api.github.com/repos/MrMarcoAI/circo-feed';
+const REPO = 'https://api.github.com/repos/heymarcoli/circo-feed';
 const fromB64 = b => new TextDecoder().decode(Uint8Array.from(atob(b.replace(/\s/g, '')), c => c.charCodeAt(0)));
 const toB64 = s => btoa(Array.from(new TextEncoder().encode(s), c => String.fromCharCode(c)).join(''));
 async function gh(path, options = {}) {
@@ -548,7 +548,7 @@ async function addFeed(s, cat, box) {
     box.innerHTML = `<span class="site-in">Agregado a ${esc(cat)}. ${now ? 'Sus noticias llegan en unos minutos.' : 'Sus noticias llegan en la próxima actualización.'}</span>`;
   } catch {
     box.innerHTML = `<p class="site-manual">Para agregarlo desde aquí, el token de GitHub de este dispositivo necesita permiso para editar el repo. Mientras, agrega esta línea bajo <b>[${esc(cat)}]</b>:
-      <code>${esc(line)}</code><a href="https://github.com/MrMarcoAI/circo-feed/edit/main/feeds.txt" target="_blank" rel="noopener">Abrir feeds.txt en GitHub</a></p>`;
+      <code>${esc(line)}</code><a href="https://github.com/heymarcoli/circo-feed/edit/main/feeds.txt" target="_blank" rel="noopener">Abrir feeds.txt en GitHub</a></p>`;
   }
 }
 
