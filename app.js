@@ -247,22 +247,22 @@ async function openReader(i) {
   reader.scrollTop = 0;
   document.body.classList.add('reading');
   };
-  // la foto de la tarjeta se transforma en la foto del lector
-  const thumb = reader.hidden && card?.querySelector('a > img');
-  if (thumb) thumb.style.viewTransitionName = 'reader-img';
+  // la tarjeta completa se expande hasta ser el lector (foto y texto viajan juntos)
+  const cardBox = reader.hidden && card?.querySelector('a');
+  if (cardBox) cardBox.style.viewTransitionName = 'reader';
   const t = withVT('open', () => {
-    if (thumb) thumb.style.viewTransitionName = '';
+    if (cardBox) cardBox.style.viewTransitionName = '';
     show();
+    if (!cardBox) return;
+    reader.style.viewTransitionName = 'reader';
+    // espera a la foto grande para que la captura del lector ya la traiga
     const big = readerBody.querySelector('.reader-img');
-    if (!big || !thumb) return;
-    big.style.viewTransitionName = 'reader-img';
-    // si la foto grande no está lista, la captura saldría vacía y la foto aparecería tarde
-    return Promise.race([big.decode().catch(() => {}), new Promise(r => setTimeout(r, 250))]);
+    if (big) return Promise.race([big.decode().catch(() => {}), new Promise(r => setTimeout(r, 250))]);
   });
   if (t) {
-    t.finished.finally(() => { const big = readerBody.querySelector('.reader-img'); if (big) big.style.viewTransitionName = ''; });
+    t.finished.finally(() => { reader.style.viewTransitionName = ''; });
     await t.updateCallbackDone.catch(() => {});
-  } else if (thumb) thumb.style.viewTransitionName = '';
+  } else if (cardBox) cardBox.style.viewTransitionName = '';
 
   if (!i.article) return;
   let text;
@@ -281,11 +281,11 @@ async function openReader(i) {
 function closeReader() {
   if (reader.hidden) return;
   const id = readingId;
-  const big = readerBody.querySelector('.reader-img');
-  const morph = big && big.getBoundingClientRect().bottom > 0 && !pendingView;
-  if (morph) big.style.viewTransitionName = 'reader-img';
-  let thumb = null;
+  const morph = !pendingView;
+  if (morph) reader.style.viewTransitionName = 'reader';
+  let box = null;
   const t = withVT('close', () => {
+    reader.style.viewTransitionName = '';
     reader.hidden = true;
     readerBody.innerHTML = ''; // corta el video si estaba sonando
     readingId = readingItem = null;
@@ -293,10 +293,14 @@ function closeReader() {
     if (pendingView) { const v = pendingView; pendingView = null; dropOpen = false; setView(v, false); return; }
     if (hideRead.checked || readerDirty) render();
     readerDirty = false;
-    thumb = morph && document.querySelector(`#feed article[data-id="${CSS.escape(id)}"] a > img`);
-    if (thumb) thumb.style.viewTransitionName = 'reader-img';
+    // el lector se encoge de vuelta hasta su tarjeta, si está a la vista
+    box = morph && document.querySelector(`#feed article[data-id="${CSS.escape(id)}"] a`);
+    const r = box?.getBoundingClientRect();
+    if (r && r.bottom > 0 && r.top < innerHeight) box.style.viewTransitionName = 'reader';
+    else box = null;
   });
-  t?.finished.finally(() => { if (thumb) thumb.style.viewTransitionName = ''; });
+  if (t) t.finished.finally(() => { if (box) box.style.viewTransitionName = ''; });
+  else reader.style.viewTransitionName = '';
 }
 readerBody.addEventListener('click', e => {
   const go = e.target.closest('[data-go]');

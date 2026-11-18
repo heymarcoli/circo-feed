@@ -344,26 +344,30 @@ html[data-vt=swap] .chips .chip.on { view-transition-name: chip-on; }
 ::view-transition-group(tab-pill), ::view-transition-group(chip-on) { animation-duration: .55s; animation-timing-function: var(--spring); }
 ::view-transition-group(chip-on) { z-index: 2; }
 /* abrir y cerrar una noticia: la lista se hunde, el lector sube; la barra de pestañas se transforma en la del lector */
-/* el lector aparece y se va en el mismo tiempo que viaja la foto, sin desplazarse, para que todo llegue junto */
-html[data-vt=open]::view-transition-old(root) { animation: vt-sink .42s var(--ease) both; }
-html[data-vt=open]::view-transition-new(root) { animation: vt-show .42s var(--ease) both; }
-html[data-vt=close]::view-transition-old(root) { z-index: 1; animation: vt-show .38s var(--ease) reverse both; }
-html[data-vt=close]::view-transition-new(root) { animation: vt-sink .38s var(--ease) reverse both; }
-@keyframes vt-sink { to { opacity: 0; transform: scale(0.96); filter: blur(6px); } }
-@keyframes vt-show { from { opacity: 0; } }
+/* abrir y cerrar una noticia: la tarjeta se expande hasta ser el lector (y se encoge al cerrar);
+   la lista se hunde detrás y la barra de pestañas se transforma en la del lector */
+html[data-vt=open]::view-transition-old(root), html[data-vt=close]::view-transition-old(root) { display: none; }
+html[data-vt=open]::view-transition-new(root) { animation: vt-sink .46s var(--ease) both; }
+html[data-vt=close]::view-transition-new(root) { animation: vt-sink .42s var(--ease) reverse both; }
+@keyframes vt-sink { to { transform: scale(0.95); filter: blur(4px) brightness(0.6); } }
+::view-transition-group(reader) { overflow: hidden; border-radius: 22px; }
+html[data-vt=open]::view-transition-group(reader) { animation-duration: .46s; animation-timing-function: cubic-bezier(0.2, 0.9, 0.25, 1); }
+html[data-vt=close]::view-transition-group(reader) { animation-duration: .42s; animation-timing-function: cubic-bezier(0.3, 0.8, 0.25, 1); }
+/* ambas capturas llenan el grupo, alineadas arriba: al empezar, la tarjeta muestra la parte de arriba del lector (la foto) */
+::view-transition-old(reader), ::view-transition-new(reader) { width: 100%; height: 100%; object-fit: cover; object-position: 50% 0; mix-blend-mode: normal; }
+/* la captura de la tarjeta no se estira: queda a su tamaño, anclada arriba a la izquierda, mientras se desvanece */
+html[data-vt=open]::view-transition-old(reader), html[data-vt=close]::view-transition-new(reader) { object-fit: none; object-position: 0 0; }
+html[data-vt=open]::view-transition-old(reader) { animation: vt-fade-out .12s linear both; }
+html[data-vt=open]::view-transition-new(reader) { animation: vt-fade-in .16s linear both; }
+html[data-vt=close]::view-transition-old(reader) { animation: vt-fade-out .16s linear .26s both; }
+html[data-vt=close]::view-transition-new(reader) { animation: vt-fade-in .16s linear .26s both; }
+@keyframes vt-fade-out { to { opacity: 0; } }
+@keyframes vt-fade-in { from { opacity: 0; } }
 html[data-vt=open] #tabbar, html[data-vt=open] #reader-bar, html[data-vt=close] #tabbar, html[data-vt=close] #reader-bar { view-transition-name: bottom-bar; }
-::view-transition-group(bottom-bar) { animation-duration: .55s; animation-timing-function: var(--spring); }
+::view-transition-group(bottom-bar) { animation-duration: .5s; animation-timing-function: var(--spring); }
 ::view-transition-old(bottom-bar), ::view-transition-new(bottom-bar) { height: 100%; }
-/* la foto de la tarjeta crece hasta ser la foto del lector */
-html[data-vt=open]::view-transition-group(reader-img) { animation-duration: .42s; animation-timing-function: var(--ease); }
-html[data-vt=close]::view-transition-group(reader-img) { animation-duration: .38s; animation-timing-function: var(--ease); }
-::view-transition-group(reader-img) { overflow: hidden; border-radius: 14px; }
-::view-transition-old(reader-img), ::view-transition-new(reader-img) { width: 100%; height: 100%; object-fit: cover; }
-/* al abrir se ve la foto grande todo el viaje (la miniatura puede estar en gris); al cerrar se funde con la miniatura */
-html[data-vt=open]::view-transition-old(reader-img) { animation: none; opacity: 0; }
-html[data-vt=open]::view-transition-new(reader-img) { animation: none; }
-/* durante la transición, el lector ya llega en su lugar (sin su propia animación de entrada) */
-html[data-vt=open] .reader-box, html[data-vt=open] #reader { animation: none; }
+/* durante la transición, el lector y su barra ya llegan en su lugar (sin sus propias animaciones de entrada) */
+html[data-vt] .reader-box, html[data-vt] #reader, html[data-vt] #reader-bar > * { animation: none; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
