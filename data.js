@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-20T15:20-03:00",
+ "updated": "2026-11-20T17:48-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,90 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.filo.news/noticia/2026/11/20/kicillof-la-soberania-no-es-arrodillarse-ante-las-imposiciones-extranjeras",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Kicillof: \"La soberanía no es arrodillarse ante las imposiciones extranjeras“",
+   "link": "https://www.filo.news/noticia/2026/11/20/kicillof-la-soberania-no-es-arrodillarse-ante-las-imposiciones-extranjeras",
+   "excerpt": "El gobernador bonaerense encabezó un acto por el Día de la Soberanía Nacional en Punta Indio, donde cuestionó las políticas del Gobierno nacional y advirtió sobre la disputa internacional por los recursos estratégicos, la industria y el conocimiento científico.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/20/202611261116812-scaled6425_re.jpg",
+   "day": "2026-11-20",
+   "ts": "2026-11-20T17:20-03:00",
+   "first_seen": "2026-11-20",
+   "og_checked": false,
+   "article": "54cd0fd0a0947c09"
+  },
+  {
+   "id": "https://musebyclios.com/?p=134878",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Celebrating ‘First Graduates’ With Handwritten Letters From Family and Friends",
+   "link": "https://musebyclios.com/2-minutes-with/celebrating-first-graduates-with-handwritten-letters-from-family-and-friends/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-first-graduates-with-handwritten-letters-from-family-and-friends",
+   "excerpt": "“Demuestras que eres más fuerte y valiente de lo que parece.” Those words—”You have shown that you are stronger and braver than you realize”—were written by a proud mother to her son Fernando who will be the first in his family to graduate from college. They describe almost…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/11/20144911/grad1.jpg",
+   "day": "2026-11-20",
+   "ts": "2026-11-20T16:45-03:00",
+   "first_seen": "2026-11-20",
+   "og_checked": true,
+   "article": "c6e4e20846016b51"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/20/dave-matthews-band-regresa-a-la-argentina",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Dave Matthews Band regresa a la Argentina",
+   "link": "https://www.filo.news/noticia/2026/11/20/dave-matthews-band-regresa-a-la-argentina",
+   "excerpt": "El grupo estadounidense, reconocido por su extraordinaria capacidad para reinventar sus canciones sobre el escenario, llegará a Buenos Aires en mayo de 2027.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/20/daveband2086_re.png",
+   "day": "2026-11-20",
+   "ts": "2026-11-20T16:43-03:00",
+   "first_seen": "2026-11-20",
+   "og_checked": false,
+   "article": "83c1848a4dc0e313"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/20/caballito-alumnos-de-una-escuela-tiraron-gas-pimienta-en-el-festejo-de-fin-de-ano",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Caballito: alumnos de una escuela tiraron gas pimienta en el festejo de fin de año",
+   "link": "https://www.filo.news/noticia/2026/11/20/caballito-alumnos-de-una-escuela-tiraron-gas-pimienta-en-el-festejo-de-fin-de-ano",
+   "excerpt": "Al menos 33 alumnos fueron asistidos por el SAME mientras que dos fueron trasladados al Hospital Durand.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/20/disenosin_título_-_2026-11-20t161933.8454036_re.png",
+   "day": "2026-11-20",
+   "ts": "2026-11-20T16:15-03:00",
+   "first_seen": "2026-11-20",
+   "og_checked": false,
+   "article": "49d83b244b512688"
+  },
+  {
+   "id": "https://www.theverge.com/?p=1038892",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "excerpt": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "day": "2026-11-20",
+   "ts": "2026-11-20T15:50-03:00",
+   "first_seen": "2026-11-20",
+   "og_checked": true,
+   "article": "4abd137519e4bb8b"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/20/estrenos-filo-cinco-series-que-llegan-esta-semana-al-streaming",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Estrenos Filo: cinco series que llegan esta semana al streaming",
+   "link": "https://www.filo.news/noticia/2026/11/20/estrenos-filo-cinco-series-que-llegan-esta-semana-al-streaming",
+   "excerpt": "Repasamos los lanzamientos más destacados para que puedas maratonear el fin de semana. ¿Cuál vas a elegir?",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/20/l4971_re.jpg",
+   "day": "2026-11-20",
+   "ts": "2026-11-20T15:17-03:00",
+   "first_seen": "2026-11-20",
+   "og_checked": false,
+   "article": "5bf067d25a6d4ea7"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/19/24-horas-por-el-cine-argentino-la-jornada-de-streaming-sin-pausa-de-peliculas-charlas-y-musica-que-hace-gala-del-arte-nacional",
    "source": "Filo.News",
    "category": "Notis",
@@ -91,6 +175,20 @@ window.CIRCO = {
    "first_seen": "2026-11-20",
    "og_checked": false,
    "article": "918d96207026af18"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/20/la-camara-federal-confirmo-el-procesamiento-de-leonardo-cositorto-por-1-095-estafas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Cámara Federal confirmó el procesamiento de Leonardo Cositorto por 1.095 estafas",
+   "link": "https://www.filo.news/noticia/2026/11/20/la-camara-federal-confirmo-el-procesamiento-de-leonardo-cositorto-por-1-095-estafas",
+   "excerpt": "El fallo también ordenó seguir investigando a 12 personas acusadas de lavar dinero proveniente de las maniobras de la organización.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/20/filo1-_2026-11-20t174253.4699410_re.png",
+   "day": "2026-11-20",
+   "ts": "2026-11-20T15:06-03:00",
+   "first_seen": "2026-11-20",
+   "og_checked": false,
+   "article": "91d3adfd763157ac"
   },
   {
    "id": "https://www.applesfera.com/curiosidades/no-estaba-seguro-pertenecer-alli-dia-que-nuevo-ceo-apple-sintio-sindrome-impostor",
@@ -133,6 +231,20 @@ window.CIRCO = {
    "first_seen": "2026-11-20",
    "og_checked": false,
    "article": "0d3c1d363ac33a65"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/20/moody-s-informo-mejoras-crediticias-en-empresas-argentinas-pero-advirtio-por-las-elecciones-del-2027",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Moody’s informó mejoras crediticias en empresas argentinas pero advirtió por las elecciones del 2027",
+   "link": "https://www.filo.news/noticia/2026/11/20/moody-s-informo-mejoras-crediticias-en-empresas-argentinas-pero-advirtio-por-las-elecciones-del-2027",
+   "excerpt": "La calificadora atribuyó el avance a la estabilización macroeconómica y al acceso al financiamiento externo, aunque alertó por la volatilidad electoral.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/20/filo1-_2026-11-20t172846.0913436_re.png",
+   "day": "2026-11-20",
+   "ts": "2026-11-20T14:22-03:00",
+   "first_seen": "2026-11-20",
+   "og_checked": false,
+   "article": "6aefbcbbcbd9cb53"
   },
   {
    "id": "https://www.theverge.com/?p=1010051",
@@ -322,7 +434,7 @@ window.CIRCO = {
    "category": "Publi",
    "title": "The Christmas Play’s the Thing as Meta Hypes Its Smart Specs",
    "link": "https://musebyclios.com/advertising/the-christmas-plays-the-thing-as-meta-hypes-its-smart-specs/?utm_source=rss&utm_medium=rss&utm_campaign=the-christmas-plays-the-thing-as-meta-hypes-its-smart-specs",
-   "excerpt": "You just landed a big role in Meta’s second major holiday campaign of the season. Your job is to wear their AI glasses and sit there—just sit—conveying emotion and brand attributes through gestures, attitudes and facial expressions. While everyone around you makes a distracting…",
+   "excerpt": "Congratulations, Alice Skok! You landed a big role in Meta’s second major holiday campaign of the season. You’ll rock their AI glasses and sit in an auditorium—just sit—conveying emotion and brand attributes through gestures, attitudes and facial expressions. Everyone around you…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/11/19125627/meta1.jpg",
    "day": "2026-11-20",
    "ts": "2026-11-20T11:00-03:00",
