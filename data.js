@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-21T14:07-03:00",
+ "updated": "2026-11-21T16:51-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,48 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.filo.news/noticia/2026/11/21/lula-rechazo-las-presiones-del-mercado-financiero-y-defendio-el-ajuste-fiscal-de-brasil-para-2027",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Lula rechazó las presiones del mercado financiero y defendió el ajuste fiscal de Brasil para 2027",
+   "link": "https://www.filo.news/noticia/2026/11/21/lula-rechazo-las-presiones-del-mercado-financiero-y-defendio-el-ajuste-fiscal-de-brasil-para-2027",
+   "excerpt": "El presidente brasileño aseguró que las medidas buscan aumentar la recaudación mediante la reducción de beneficios tributarios a empresas y descartó recortes en salud, educación y el salario mínimo.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/21/202611261119830-scaled3652_re.jpg",
+   "day": "2026-11-21",
+   "ts": "2026-11-21T16:38-03:00",
+   "first_seen": "2026-11-21",
+   "og_checked": false,
+   "article": "a4e9dbe2e757dbbc"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/21/maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-bonaerense-tras-un-acuerdo-con-kicillof",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense tras un acuerdo con Kicillof",
+   "link": "https://www.filo.news/noticia/2026/11/21/maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-bonaerense-tras-un-acuerdo-con-kicillof",
+   "excerpt": "La designación se concretó durante una reunión partidaria en La Plata, luego de un acuerdo entre La Cámpora y el sector del gobernador. También se distribuyeron cargos de conducción de cara a 2027.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/21/q6x5bfqxw5dvfayonlifi77wwe1)8364_re.jpg",
+   "day": "2026-11-21",
+   "ts": "2026-11-21T15:21-03:00",
+   "first_seen": "2026-11-21",
+   "og_checked": false,
+   "article": "481641654fff5340"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/21/tres-personas-murieron-calcinadas-tras-un-choque-e-incendio-en-panamericana",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Tres personas murieron calcinadas tras un choque e incendio en Panamericana",
+   "link": "https://www.filo.news/noticia/2026/11/21/tres-personas-murieron-calcinadas-tras-un-choque-e-incendio-en-panamericana",
+   "excerpt": "El siniestro ocurrió este sábado a la altura de San Isidro e involucró a un auto particular, un colectivo de la línea 21 y una camioneta.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/21/capturadepantalla_2026-11-21_1402015781_re.png",
+   "day": "2026-11-21",
+   "ts": "2026-11-21T14:46-03:00",
+   "first_seen": "2026-11-21",
+   "og_checked": false,
+   "article": "ff3cc7988e03b209"
+  },
   {
    "id": "https://www.applesfera.com/curiosidades/iweb-a-frontrow-aplicaciones-macos-que-dia-tuvimos-ahora-echamos-1",
    "source": "Applesfera",
@@ -222,8 +264,8 @@ window.CIRCO = {
    "id": "https://musebyclios.com/?p=134851",
    "source": "Muse by Clio",
    "category": "Publi",
-   "title": "Why Meerkat’s Jennifer Spire Believes Employee-Owned Indie Shops Hold the Key to Future",
-   "link": "https://musebyclios.com/2-minutes-with/why-meerkats-jennifer-spire-believes-employee-owned-indie-shops-hold-the-key-to-future/?utm_source=rss&utm_medium=rss&utm_campaign=why-meerkats-jennifer-spire-believes-employee-owned-indie-shops-hold-the-key-to-future",
+   "title": "Why Meerkat’s Jennifer Spire Believes Indie Shops Hold the Keys to the Future",
+   "link": "https://musebyclios.com/2-minutes-with/why-meerkats-jennifer-spire-believes-employee-owned-indie-shops-hold-the-keys-to-the-future/?utm_source=rss&utm_medium=rss&utm_campaign=why-meerkats-jennifer-spire-believes-employee-owned-indie-shops-hold-the-keys-to-the-future",
    "excerpt": "“Empower decision making,” says Jennifer Spire, partner and CEO of Meerkat. “If the person closest to the work can make the call, they should. Every approval layer you remove gives you back days. And this is basically the Meerkat operating system.” Meerkat recently rebranded…",
    "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/11/19211943/JenniferSpire.jpg",
    "day": "2026-11-21",
