@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-22T14:37-03:00",
+ "updated": "2026-11-22T16:59-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,62 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.filo.news/noticia/2026/11/22/river-vs-lanus-por-el-torneo-clausura-2026-a-que-hora-juegan-y-donde-ver-los-octavos-de-final",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "River vs. Lanús por el Torneo Clausura 2026: a qué hora juegan y dónde ver los octavos de final",
+   "link": "https://www.filo.news/noticia/2026/11/22/river-vs-lanus-por-el-torneo-clausura-2026-a-que-hora-juegan-y-donde-ver-los-octavos-de-final",
+   "excerpt": "El Millonario recibirá al Granate este domingo en el Monumental por un lugar en los cuartos de final. Conocé cómo llegan los equipos y sus posibles alineaciones.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/22/duelodetalentos_en_la_cancha4505_re.png",
+   "day": "2026-11-22",
+   "ts": "2026-11-22T16:40-03:00",
+   "first_seen": "2026-11-22",
+   "og_checked": false,
+   "article": "388bf90bf8d7937d"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/22/crece-el-interes-por-comprar-propiedades-en-el-amba-las-busquedas-alcanzan-el-48-impulsadas-por-el-credito-hipotecario",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Crece el interés por comprar propiedades en el AMBA: las búsquedas alcanzan el 48% impulsadas por el crédito hipotecario",
+   "link": "https://www.filo.news/noticia/2026/11/22/crece-el-interes-por-comprar-propiedades-en-el-amba-las-busquedas-alcanzan-el-48-impulsadas-por-el-credito-hipotecario",
+   "excerpt": "Según un informe de Zonaprop, el interés por adquirir viviendas aumentó nueve puntos porcentuales desde enero y se acerca al nivel de las consultas por alquiler. Los PH lideran la demanda por publicación.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/22/202510251005518-scaled7220_re.jpg",
+   "day": "2026-11-22",
+   "ts": "2026-11-22T15:18-03:00",
+   "first_seen": "2026-11-22",
+   "og_checked": false,
+   "article": "ff575c3d72ee4238"
+  },
+  {
+   "id": "yt:video:LrJ4RYRQSpk",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "How to design an agent harness",
+   "link": "https://www.youtube.com/shorts/LrJ4RYRQSpk",
+   "excerpt": "I sit down with Jon Noronha, co-founder and chief product officer of Gamma, to break down agent harnesses and the startup openings around them. Jon explains how Gamma rebuilt its product as a creative agent this year and walks me through the roughly 20 models and 200 calls…",
+   "image": "https://i1.ytimg.com/vi/LrJ4RYRQSpk/hqdefault.jpg",
+   "day": "2026-11-22",
+   "ts": "2026-11-22T15:12-03:00",
+   "first_seen": "2026-11-22",
+   "og_checked": false,
+   "article": "444b4d7fb80cd18e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/22/las-tarjetas-de-credito-concentran-el-43-de-las-ventas-en-supermercados-mientras-cae-el-consumo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Las tarjetas de crédito concentran el 43% de las ventas en supermercados mientras cae el consumo",
+   "link": "https://www.filo.news/noticia/2026/11/22/las-tarjetas-de-credito-concentran-el-43-de-las-ventas-en-supermercados-mientras-cae-el-consumo",
+   "excerpt": "Según el INDEC, el crédito y el débito representan casi siete de cada diez pesos facturados en las grandes cadenas. En agosto, las ventas reales retrocedieron un 3,7% interanual.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/22/7205)4694_re.jpg",
+   "day": "2026-11-22",
+   "ts": "2026-11-22T15:03-03:00",
+   "first_seen": "2026-11-22",
+   "og_checked": false,
+   "article": "7bfbccff972963aa"
+  },
   {
    "id": "https://www.theverge.com/?p=1039770",
    "source": "The Verge · IA",
