@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-24T17:30-03:00",
+ "updated": "2026-11-24T19:48-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,48 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "yt:video:dk8vltIu_6k",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "5 ways to get the most out of Gemini 4 Neon",
+   "link": "https://www.youtube.com/shorts/dk8vltIu_6k",
+   "excerpt": "Gemini 4 Neon is LIVE, brining frontier-level intelligence with fast end-to-end task completion, try it for yourself: https://startup-ideas-pod.link/gemini-4-neon In this solo episode, I break down Gemini 4 Neon, Google's new model, after testing it inside Antigravity. I start…",
+   "image": "https://i1.ytimg.com/vi/dk8vltIu_6k/hqdefault.jpg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T18:07-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "8cf88ddc2a01683c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/24/encuentro-con-el-buda-llega-a-los-cines-argentinos-el-documental-de-marta-gyoergy-kessler",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Encuentro con el Buda\": llega a los cines argentinos el documental de Màrta György-Kessler",
+   "link": "https://www.filo.news/noticia/2026/11/24/encuentro-con-el-buda-llega-a-los-cines-argentinos-el-documental-de-marta-gyoergy-kessler",
+   "excerpt": "Dedicada al trabajo en comunidades budistas alrededor del mundo, la directora presenta su nueva película tras su recorrido y premiación en varios festivales internacionales.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/24/encuentroconel_buda_67795_re.jpg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T18:05-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "344a2c7c46614d6d"
+  },
+  {
+   "id": "https://musebyclios.com/?p=134956",
+   "source": "Muse by Clio",
+   "category": "Publi",
+   "title": "Behind the Craft: How Ryval Studios Filmed an Ice-Cold Carolina Hurricanes Opener in a Hotel Ballroom",
+   "link": "https://musebyclios.com/sports/behind-the-craft-how-ryval-studios-filmed-an-ice-cold-carolina-hurricanes-opener-in-a-hotel-ballroom/?utm_source=rss&utm_medium=rss&utm_campaign=behind-the-craft-how-ryval-studios-filmed-an-ice-cold-carolina-hurricanes-opener-in-a-hotel-ballroom",
+   "excerpt": "Fresh off a Stanley Cup victory, a team’s new season opener needs to do more than just recapture the glory; it has to bottle that championship momentum and ignite the arena for what comes next. Enter Ryval Studios. The sports production powerhouse reunited with the 2026 champion…",
+   "image": "https://cdn.musebyclios.com/wp-content/uploads/2026/11/24155816/hockey1.jpg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T17:45-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": true,
+   "article": "73fb03e52a5402e9"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/24/se-estrena-mejores-enemigas-la-nueva-serie-sobre-baile-urbano",
    "source": "Filo.News",
    "category": "Notis",
@@ -91,6 +133,20 @@ window.CIRCO = {
    "first_seen": "2026-11-24",
    "og_checked": false,
    "article": "eacea4df3208a33c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/24/la-actividad-economica-cayo-1-2-segun-informo-el-indec",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La actividad económica cayó 1,2% interanual, según informó el INDEC",
+   "link": "https://www.filo.news/noticia/2026/11/24/la-actividad-economica-cayo-1-2-segun-informo-el-indec",
+   "excerpt": "Si bien estos datos indicarían que la economía entró en recesión técnica, el vocero presidencial, Adrián Ravier, sostuvo que habrá que esperar hasta diciembre para ratificar el escenario.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/24/2026032603225051629_re.jpg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T17:15-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "896038cc3dfbf8b7"
   },
   {
    "id": "https://www.theverge.com/?p=1041571",
@@ -191,6 +247,34 @@ window.CIRCO = {
    "article": "5e1fa3d24470ba0d"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/24/mariana-enriquez-para-mi-un-gran-poema-en-prosa-de-terror-es-esa-mujer-de-rodolfo-walsh",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Mariana Enriquez: “Para mí, un gran poema en prosa de terror es 'Esa mujer', de Rodolfo Walsh”",
+   "link": "https://www.filo.news/noticia/2026/11/24/mariana-enriquez-para-mi-un-gran-poema-en-prosa-de-terror-es-esa-mujer-de-rodolfo-walsh",
+   "excerpt": "La escritora argentina presentó su último libro Conversación con la oscuridad , un ensayo que reúne sus reflexiones sobre la literatura gótica y desarrolla cómo sus miedos personales se convirtieron en miedos sociales y políticos. ¿Cuáles son nuestros traumas como sociedad? ¿Qué…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/24/disenosin_título_-_2026-11-24t174657.3131966_re.png",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T15:08-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "152a514b9d668e48"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/24/crece-la-tension-bilateral-lula-tendria-decidido-no-invitar-a-milei-a-asumir",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Crece la tensión bilateral: Lula tendría decidido no invitar a Milei a asumir",
+   "link": "https://www.filo.news/noticia/2026/11/24/crece-la-tension-bilateral-lula-tendria-decidido-no-invitar-a-milei-a-asumir",
+   "excerpt": "El posible desplante surge pocos días después de que el canciller Pablo Quirno cuestionara el proceso electoral en el que fue reelegido el líder del PT.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/24/filo1-_2026-11-24t194422.1825229_re.png",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T15:06-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "bb7c5ff93d8a4585"
+  },
+  {
    "id": "https://www.applesfera.com/curiosidades/steve-jobs-acerto-fichaje-2008-culebron-nvidia-hombre-chips-se-queda-apple",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -217,6 +301,20 @@ window.CIRCO = {
    "first_seen": "2026-11-24",
    "og_checked": false,
    "article": "8ce3a6944174d853"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/24/sin-fecha-definida-el-gobierno-volvio-a-postergar-el-financiamiento-universitario",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Sin fecha definida, el Gobierno volvió a postergar el financiamiento universitario",
+   "link": "https://www.filo.news/noticia/2026/11/24/sin-fecha-definida-el-gobierno-volvio-a-postergar-el-financiamiento-universitario",
+   "excerpt": "Capital Humano argumentó que la norma se promulgó y suspendió en el mismo acto por falta de partidas asignadas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/24/filo1-_2026-11-24t181324.6624692_re.png",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T14:19-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "387c82b8afca3d7f"
   },
   {
    "id": "https://www.theverge.com/?p=1041362",
