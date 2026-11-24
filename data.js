@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-23T21:26-03:00",
+ "updated": "2026-11-24T07:29-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -64,6 +64,90 @@ window.CIRCO = {
  ],
  "errors": [],
  "items": [
+  {
+   "id": "https://www.reasonwhy.es/actualidad/organzaciones-proteccion-infancia-piden-amazon-ebay-retirada-juguetes-ia",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Más de 150 organizaciones de protección de la infancia piden a Amazon y eBay que retiren juguetes con IA",
+   "link": "https://www.reasonwhy.es/actualidad/organzaciones-proteccion-infancia-piden-amazon-ebay-retirada-juguetes-ia",
+   "excerpt": "Advierten de los peligros físicos y emocionales que entrañan y recuerdan que no han sido sometidos a pruebas de seguridad.",
+   "image": "https://www.reasonwhy.es/media/library/juguetes-ia-amazon-ebay.jpg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T06:54-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "c1a21c0ef369e06b"
+  },
+  {
+   "id": "https://www.applesfera.com/rumores/se-filtra-que-apple-lanzara-dos-productos-nuevos-semana-que-viene",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Se filtra que Apple lanzará dos productos nuevos la semana que viene",
+   "link": "https://www.applesfera.com/rumores/se-filtra-que-apple-lanzara-dos-productos-nuevos-semana-que-viene",
+   "excerpt": "Menudo otoño nos ha dado Apple . Ha habido lanzamientos y movimiento en la tienda durante muchísimas semanas seguidas. El iPhone 18 Pro , el iPhone Duo , el MacBook Pro táctil , el iPad mini ... junto a otros más polémicos como el HomeView o el Apple TV 4K . Y nos dejamos muchos…",
+   "image": "https://i.blogs.es/e97d57/apple-lanzamiento/1024_2000.jpeg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T06:26-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "67bd5f2cefdb3fb5"
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/canva-tendencias-diseno-comunicacion-visual-2027",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Las tendencias de diseño para 2027, según Canva: memoria, artesanía o rebeldía visual",
+   "link": "https://www.reasonwhy.es/actualidad/canva-tendencias-diseno-comunicacion-visual-2027",
+   "excerpt": "La plataforma ha identificado cinco grandes tendencias que reivindican la singularidad frente a la homogeneidad visual.",
+   "image": "https://www.reasonwhy.es/media/library/canva-tendencias-diseno-2027.jpg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T05:00-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "6a858a75ddf26538"
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/soledad-animales-peta-anuncio-navidad-2026",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "PETA promueve el veganismo retratando la soledad de los animales en su anuncio de Navidad",
+   "link": "https://www.reasonwhy.es/actualidad/soledad-animales-peta-anuncio-navidad-2026",
+   "excerpt": "Refleja la sensación de pérdida y soledad entre animales cuando otros son sacrificados para las comidas festivas.",
+   "image": "https://www.reasonwhy.es/media/library/anuncio-navidad-peta-2026.jpg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T04:53-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "5100e8df132c5dac"
+  },
+  {
+   "id": "https://www.applesfera.com/apple-tv/no-secreto-apple-tv-confirma-que-ted-lasso-tendra-quinta-temporada",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Es oficial: 'Ted Lasso' tendrá quinta temporada. Y lo mejor es que podría no ser la última",
+   "link": "https://www.applesfera.com/apple-tv/no-secreto-apple-tv-confirma-que-ted-lasso-tendra-quinta-temporada",
+   "excerpt": "La continuidad de 'Ted Lasso' con su cuarta temporada fue toda una sorpresa porque su tercera supuso, en teoría, el colofón a la serie. Pero volvió y lo hizo creando nuevas tramas alrededor del flamante equipo femenino del Richmond . Y ahora, casi dos meses después de su final…",
+   "image": "https://i.blogs.es/76d82f/ted-lasso-5/1024_2000.jpeg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T04:49-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "e18a887294d65e17"
+  },
+  {
+   "id": "yt:video:RV9JbYtfCOo",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "$1.1B robotics founder: millions of robots will exist in 10 years",
+   "link": "https://www.youtube.com/shorts/RV9JbYtfCOo",
+   "excerpt": "I sit down with Adrien Gaidon, Co-founder and Chief Strategy Officer of Walden Robotics, to map out where the openings sit in robotics and physical AI. Adrien explains how teams now teach robots with data, why deployment data carries the most value, and why Walden picked wheels…",
+   "image": "https://i3.ytimg.com/vi/RV9JbYtfCOo/hqdefault.jpg",
+   "day": "2026-11-24",
+   "ts": "2026-11-24T01:43-03:00",
+   "first_seen": "2026-11-24",
+   "og_checked": false,
+   "article": "4d6d507bcb0ea697"
+  },
   {
    "id": "https://www.theverge.com/?p=1041000",
    "source": "The Verge · Google",
@@ -320,7 +404,7 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/portatil/ultimo-que-esperaba-mi-mac-que-trackpad-me-hablase-voz-a-darth-vader",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "Lo último que esperaba de mi Mac: que el trackpad me hablase con voz a lo Darth Vader",
+   "title": "Alguien ha conseguido que el trackpad del Mac hable. Lo he probado y da un poco de mal rollo",
    "link": "https://www.applesfera.com/portatil/ultimo-que-esperaba-mi-mac-que-trackpad-me-hablase-voz-a-darth-vader",
    "excerpt": "Lo último que me esperaba probar en mi Mac es que el trackpad me hablase. Sí, el trackpad, y no los altavoces. Ese cristal do nde apoyamos el dedo todo el día y que lo más parecido a un sonido que nos ha dado es el clic. Un clic que ni siquiera es físico porque lo simula un…",
    "image": "https://i.blogs.es/15b705/trackpad-app/1024_2000.jpeg",
@@ -362,7 +446,7 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/apple-tv/hoy-streaming-nocturno-serie-asesino-serie-encerrado-psiquiatrico-ritmo-que-engancha",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "Hoy en streaming: 'Nocturno', la serie con un asesino en serie encerrado en un psiquiátrico y un ritmo que engancha",
+   "title": "Un asesino en serie encerrado en un psiquiátrico que controla lo que pasa fuera. La nueva joya de Apple TV es 'Nocturno'",
    "link": "https://www.applesfera.com/apple-tv/hoy-streaming-nocturno-serie-asesino-serie-encerrado-psiquiatrico-ritmo-que-engancha",
    "excerpt": "Apple TV tiene la costumbre de poner una buena serie justo cuando más falta hace. Pluribus, Silo, Separación y Ted Lasso nos han dejado esperando nuevas temporadas y, cuando parece que solo queda armarse de paciencia... la plataforma saca otra joya. Se llama 'Nocturno' y me…",
    "image": "https://i.blogs.es/32d5b3/nocturno-serie/1024_2000.jpeg",
@@ -15203,20 +15287,6 @@ window.CIRCO = {
    "first_seen": "2026-11-09",
    "og_checked": true,
    "article": "003d382472916044"
-  },
-  {
-   "id": "https://bencorde.com/blog/opus-5-5-vs-gpt-6-astra-12-trabajos-reales/",
-   "source": "Benjamín Cordero",
-   "category": "Tech + la IA",
-   "title": "Probé Opus 5.5 vs GPT-6 Astra en 12 trabajos reales",
-   "link": "https://bencorde.com/blog/opus-5-5-vs-gpt-6-astra-12-trabajos-reales/",
-   "excerpt": "Los mismos 12 trabajos, dos modelos y un resultado con matices: Opus ganó 9 pruebas, mientras Astra usó menos tiempo y tuvo menor costo estimado por API.",
-   "image": "https://bencorde.com/blog/opus-5-5-vs-gpt-6-astra-12-trabajos-reales/imagenes/portada.png",
-   "day": "2026-09-24",
-   "ts": "2026-09-24T21:05-03:00",
-   "first_seen": "2026-11-09",
-   "og_checked": true,
-   "article": "72dc6aea72ec7ba3"
   }
  ]
 };
