@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-25T16:46-03:00",
+ "updated": "2026-11-25T19:00-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -55,15 +55,113 @@ window.CIRCO = {
    "name": "Filo.News",
    "category": "Notis",
    "feed": "https://www.filo.news/rss/rss.xml"
-  },
-  {
-   "name": "CIPER",
-   "category": "Notis",
-   "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
- "errors": [],
+ "errors": [
+  {
+   "url": "https://www.ciperchile.cl/",
+   "error": "HTTP Error 500: Internal Server Error"
+  }
+ ],
  "items": [
+  {
+   "id": "https://www.theverge.com/?p=1042221",
+   "source": "The Verge · IA",
+   "category": "Tech + la IA",
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "excerpt": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might…",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T18:51-03:00",
+   "first_seen": "2026-11-25",
+   "og_checked": true,
+   "article": "93c690782c8ec2d7"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/25/la-justicia-endurecio-las-condiciones-que-claudio-tapia-debe-cumplir-para-viajar",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Justicia endureció las condiciones que Claudio Tapia debe cumplir para viajar",
+   "link": "https://www.filo.news/noticia/2026/11/25/la-justicia-endurecio-las-condiciones-que-claudio-tapia-debe-cumplir-para-viajar",
+   "excerpt": "El juez Diego Amarante elevó la caución de $30 millones a $50 millones y le exigió firmar de forma presencial antes de salir del país.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/filo1-_2026-11-25t185348.9191322_re.png",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T18:51-03:00",
+   "first_seen": "2026-11-25",
+   "og_checked": false,
+   "article": "8826b678ba956b68"
+  },
+  {
+   "id": "yt:video:Tr2gexqL_L4",
+   "source": "Greg Isenberg",
+   "category": "Tech + la IA",
+   "title": "One of the best AI-proof businesses is a data-rich business.",
+   "link": "https://www.youtube.com/shorts/Tr2gexqL_L4",
+   "excerpt": "In this solo episode, I lay out how I think about building an AI-proof business now that anyone can press a few buttons and spin up a company in seconds. Layoffs keep coming, people copy products pixel for pixel, and I still see more opportunity than ever. I walk through eight…",
+   "image": "https://i1.ytimg.com/vi/Tr2gexqL_L4/hqdefault.jpg",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T18:21-03:00",
+   "first_seen": "2026-11-25",
+   "og_checked": false,
+   "article": "d5da4fed2b21e745"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/25/consumo-dispar-en-septiembre-subieron-mayoristas-y-shoppings-y-bajaron-los-super",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Consumo dispar en septiembre: subieron mayoristas y shoppings y bajaron los súper",
+   "link": "https://www.filo.news/noticia/2026/11/25/consumo-dispar-en-septiembre-subieron-mayoristas-y-shoppings-y-bajaron-los-super",
+   "excerpt": "De acuerdo con los datos oficiales, todos los rubros acumulan retrocesos en los primeros nueve meses del año frente al mismo período de 2025.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/filo1-_2026-11-25t180018.2695284_re.png",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T18:02-03:00",
+   "first_seen": "2026-11-25",
+   "og_checked": false,
+   "article": "15add14b9e50f3c2"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/25/santilli-defendio-al-gobierno-en-el-senado-milei-no-se-cayo-a-los-seis-meses-y-va-por-la-reeleccion",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Santilli defendió al Gobierno en el Senado: “Milei no se cayó a los seis meses y va por la reelección”",
+   "link": "https://www.filo.news/noticia/2026/11/25/santilli-defendio-al-gobierno-en-el-senado-milei-no-se-cayo-a-los-seis-meses-y-va-por-la-reeleccion",
+   "excerpt": "En su primer informe de gestión ante el Senado, el jefe de Gabinete defendió la administración de Javier Milei, cuestionó los pronósticos sobre una posible caída del Gobierno y destacó la baja de la inflación y la pobreza, el superávit fiscal y los resultados en materia de…",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/202611250512800-6-scaled5046_re.jpg",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T17:31-03:00",
+   "first_seen": "2026-11-25",
+   "og_checked": false,
+   "article": "0373e8337e820910"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/25/villarruel",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Villarruel pidió por la aprobación de la ley de ludopatía: \"No dilatemos más\"",
+   "link": "https://www.filo.news/noticia/2026/11/25/villarruel",
+   "excerpt": "La vicepresidenta se manifestó en sus redes sociales para advertir sobre la posibilidad de que el proyecto pierda estado parlamentario.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/filo1-_2026-11-25t170142.8177256_re.png",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T16:55-03:00",
+   "first_seen": "2026-11-25",
+   "og_checked": false,
+   "article": ""
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/25/clemente-cancela-anuncio-que-va-a-ser-papa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Clemente Cancela anunció que va a ser papá",
+   "link": "https://www.filo.news/noticia/2026/11/25/clemente-cancela-anuncio-que-va-a-ser-papa",
+   "excerpt": "El periodista dio la noticia en el programa de Matías Martin y sorprendió a sus compañeros.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/clemente8491_re.jpg",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T16:27-03:00",
+   "first_seen": "2026-11-25",
+   "og_checked": false,
+   "article": "e096c7d3393702a3"
+  },
   {
    "id": "https://www.ciperchile.cl/?p=202425",
    "source": "CIPER",
@@ -147,6 +245,20 @@ window.CIRCO = {
    "first_seen": "2026-11-25",
    "og_checked": true,
    "article": "18183c9633d360c4"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/25/tras-la-caida-del-ueno-bank-javier-milei-viaja-a-paraguay-para-reunirse-con-el-sucesor-de-santiago-pena",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Tras la caída del Ueno Bank, Javier Milei viaja a Paraguay para reunirse con el sucesor de Santiago Peña",
+   "link": "https://www.filo.news/noticia/2026/11/25/tras-la-caida-del-ueno-bank-javier-milei-viaja-a-paraguay-para-reunirse-con-el-sucesor-de-santiago-pena",
+   "excerpt": "El presidente argentino irá junto al canciller Quirno y se centrarán en temas de agenda, como la Hidrovía.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/filo1-_2026-11-25t144448.9692490_re.png",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T14:38-03:00",
+   "first_seen": "2026-11-25",
+   "og_checked": false,
+   "article": "bfd36517a72eb832"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/25/tras-la-caida-del-ueno-bank-milei-viaja-a-paraguay-para-reunirse-con-el-sucesor-de-pena",
