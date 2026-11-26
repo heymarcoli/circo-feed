@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-26T16:25-03:00",
+ "updated": "2026-11-26T18:59-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,104 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.ciperchile.cl/?p=202483",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Los 16 nombramientos judiciales en La Araucanía en que Mery pidió la opinión de Hermosilla",
+   "link": "https://www.ciperchile.cl/2026/11/26/los-16-nombramientos-judiciales-en-la-araucania-en-que-mery-pidio-la-opinion-de-hermosilla/?utm_source=rss&utm_medium=rss&utm_campaign=los-16-nombramientos-judiciales-en-la-araucania-en-que-mery-pidio-la-opinion-de-hermosilla",
+   "excerpt": "La entrada Los 16 nombramientos judiciales en La Araucanía en que Mery pidió la opinión de Hermosilla se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/hermosilla_mery_mweb.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T18:32-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": true,
+   "article": "61f0aa1570da2349"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/el-senado-dio-media-sancion-a-la-reforma-electoral",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Senado dio media sanción a la reforma electoral",
+   "link": "https://www.filo.news/noticia/2026/11/26/el-senado-dio-media-sancion-a-la-reforma-electoral",
+   "excerpt": "El proyecto suspende las PASO para 2027 e incorpora Ficha Limpia, además de introducir cambios en el financiamiento de las campañas, la Boleta Única y los debates presidenciales. Ahora deberá ser tratado por Diputados.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/261126523scaled7646_re.jpg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T18:11-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "054a8e38bec4e902"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/docentes-universitarios-se-movilizaron-hacia-el-congreso-en-contra-del-presupuesto-2027",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Docentes universitarios se movilizaron hacia el Congreso en contra del Presupuesto 2027",
+   "link": "https://www.filo.news/noticia/2026/11/26/docentes-universitarios-se-movilizaron-hacia-el-congreso-en-contra-del-presupuesto-2027",
+   "excerpt": "Federaciones universitarias se manifestaron en echazo al proyecto de Presupuesto 2027 y volvieron a exigir la aplicación de la Ley de Financiamiento Universitario.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/disenosin_título_-_2026-11-26t182240.4316203_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T17:46-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "d0e134d71057ae75"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-qatar",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Corre Franco Colapinto en la Fórmula 1: días y horarios del GP de Qatar",
+   "link": "https://www.filo.news/noticia/2026/11/26/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-qatar",
+   "excerpt": "Tras sumar puntos en Las Vegas, el piloto argentino volverá a la acción este fin de semana en el circuito de Lusail.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/20261120t013417z_447072680_up1embk04d4gu_rtrmadp_3_motor-f1-lasvegas5065_re.jpg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T17:26-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "41f997a05ba74058"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/bichos-de-mar-se-estrena-un-documental-sobre-la-expedicion-del-conicet",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "\"Bichos de mar\": se estrena un documental sobre la expedición del CONICET",
+   "link": "https://www.filo.news/noticia/2026/11/26/bichos-de-mar-se-estrena-un-documental-sobre-la-expedicion-del-conicet",
+   "excerpt": "Miles de espectadores acompañaron a estos científicos en un hecho irrepetible. Conocé más detalles en la nota.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/unnamed97)2177_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T16:48-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "ea66c6be1b279159"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/lionel-messi-estara-en-el-partido-despedida-de-carlos-tevez",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Lionel Messi estará en el partido despedida de Carlos Tevez",
+   "link": "https://www.filo.news/noticia/2026/11/26/lionel-messi-estara-en-el-partido-despedida-de-carlos-tevez",
+   "excerpt": "El astro argentino, compañero del \"Apache\" en el seleccionado nacional durante varios años, participará del homenaje que se llevará a cabo el próximo 20 de diciembre en la Bombonera.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/messidespedidatevez4870_re.jpg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T16:41-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "e9361b6b89cf97be"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/licitacion-de-deuda-el-tesoro-cubrio-vencimientos-por-usd25-4-billones-en-noviembre",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Licitación de deuda: el Tesoro cubrió vencimientos por $25,4 billones en noviembre",
+   "link": "https://www.filo.news/noticia/2026/11/26/licitacion-de-deuda-el-tesoro-cubrio-vencimientos-por-usd25-4-billones-en-noviembre",
+   "excerpt": "La nueva LECAP con vencimiento en febrero de 2027 fue el instrumento más buscado con $7 billones colocados a una tasa del 2,2% mensual.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/filo1-_2026-11-26t183732.2404956_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T15:57-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "e9638266bace3540"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/26/llega-el-festival-de-canes-2026-conoce-la-programacion-y-al-jurado-de-esta-cuarta-edicion-que-sigue-creciendo-con-el-apoyo-del-publico",
    "source": "Filo.News",
    "category": "Notis",
@@ -121,6 +219,20 @@ window.CIRCO = {
    "article": "5d6e4174c00518cf"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/26/milei-celebro-la-reforma-de-la-carta-organica-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Milei celebró la reforma de la Carta Orgánica del Banco Central: \"Se terminó con más de 90 años de estafa\"",
+   "link": "https://www.filo.news/noticia/2026/11/26/milei-celebro-la-reforma-de-la-carta-organica-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa",
+   "excerpt": "El Presidente festejó en redes sociales el fin de la emisión para cubrir el déficit fiscal y la Oficina del Presidente destacó la independencia de la entidad.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/filo1-_2026-11-26t175923.4804183_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T15:10-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "23dbcf6351618f6b"
+  },
+  {
    "id": "https://www.applesfera.com/seleccion/me-he-comprado-tira-led-para-monitores-se-conecta-al-mac-refleja-colores-pantalla",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -147,6 +259,20 @@ window.CIRCO = {
    "first_seen": "2026-11-26",
    "og_checked": false,
    "article": "6da6e6490758f771"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/elecciones-en-espana-sanchez-feijoo-abascal-y-colau-debaten-a-tres-dias-de-los-comicios",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Elecciones en España: Sánchez, Feijóo, Abascal y Colau debaten a tres días de los comicios",
+   "link": "https://www.filo.news/noticia/2026/11/26/elecciones-en-espana-sanchez-feijoo-abascal-y-colau-debaten-a-tres-dias-de-los-comicios",
+   "excerpt": "El encuentro televisado en España comenzará a las 18 de Buenos Aires, contará con cinco bloques temáticos y será el primero sin ausencias desde 2019.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/filo1-_2026-11-26t172618.9296328_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T14:22-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "1e2707a23c9f9a01"
   },
   {
    "id": "https://www.applesfera.com/curiosidades/steve-jobs-lanzo-ipod-a-pecera-gracias-a-esa-locura-ingenieros-aprendieron-leccion-2",
