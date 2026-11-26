@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-25T19:00-03:00",
+ "updated": "2026-11-26T05:57-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -55,15 +55,141 @@ window.CIRCO = {
    "name": "Filo.News",
    "category": "Notis",
    "feed": "https://www.filo.news/rss/rss.xml"
-  }
- ],
- "errors": [
+  },
   {
-   "url": "https://www.ciperchile.cl/",
-   "error": "HTTP Error 500: Internal Server Error"
+   "name": "CIPER",
+   "category": "Notis",
+   "feed": "https://www.ciperchile.cl/feed/"
   }
  ],
+ "errors": [],
  "items": [
+  {
+   "id": "https://www.reasonwhy.es/actualidad/ikea-portugal-telefono-escenificacion-llamadas-denuncias-violencia-domestica",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Una llamada cada 16 minutos: Ikea Portugal escenifica las denuncias por violencia doméstica en una de sus tiendas",
+   "link": "https://www.reasonwhy.es/actualidad/ikea-portugal-telefono-escenificacion-llamadas-denuncias-violencia-domestica",
+   "excerpt": "Ha llevado a cabo una acción de concienciación en Portugal por el Día Internacional de la Eliminación de la Violencia contra la Mujer.",
+   "image": "https://www.reasonwhy.es/media/library/ikea-portugal-violencia-domestica.jpg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T05:27-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "33ca89ed6c0066a3"
+  },
+  {
+   "id": "https://www.applesfera.com/ipad/tenemos-mac-tactil-solo-falta-ipad-macos-se-acaba-filtrar-que-apple-esta-probando",
+   "source": "Applesfera",
+   "category": "Mundo Apple",
+   "title": "Ya tenemos un Mac táctil y solo falta un iPad con macOS. Se acaba de filtrar que Apple lo está probando",
+   "link": "https://www.applesfera.com/ipad/tenemos-mac-tactil-solo-falta-ipad-macos-se-acaba-filtrar-que-apple-esta-probando",
+   "excerpt": "Hace apenas unas semanas que John Ternus , CEO de Apple, cerraba la puerta al lanzamiento de un dispositivo híbrido en hardware y software entre un iPad y un Mac. \"De momento\", matizaba el ejecutivo para no truncar un posible cambio de planes futuro. Lo que no mencionó fue la…",
+   "image": "https://i.blogs.es/c604c5/ipad-con-macos/1024_2000.jpeg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T05:00-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "315d12d88b7a4180"
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/barometro-uteca-2026-confianza-television-redes-sociales",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "La televisión se mantiene como el medio más fiable para informarse, según el Barómetro 2026 de UTECA",
+   "link": "https://www.reasonwhy.es/actualidad/barometro-uteca-2026-confianza-television-redes-sociales",
+   "excerpt": "El 59% consideran que ofrece la información más veraz y confiable, frente al 10% que señalan las redes.",
+   "image": "https://www.reasonwhy.es/media/library/familia-viendo-la-tv.jpg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T03:58-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "5ed4b52bd3687259"
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/tetra-pak-reva-envase-papel-alimentos-cuchara",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Tetra Pak presenta Reva, un envase a base de papel diseñado para alimentos que se comen con cuchara",
+   "link": "https://www.reasonwhy.es/actualidad/tetra-pak-reva-envase-papel-alimentos-cuchara",
+   "excerpt": "Está fabricado en papel, tiene forma cuadrada y cuenta con una tapa con anilla que facilita el consumo “on the go”.",
+   "image": "https://www.reasonwhy.es/media/library/tetra-pak-tetra-reva.jpg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T03:56-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "69f48f15b92b89c6"
+  },
+  {
+   "id": "https://www.reasonwhy.es/actualidad/lenovo-explora-creatividad-ordinario-miniserie-inteligencia-artificial",
+   "source": "Reason Why",
+   "category": "Publi",
+   "title": "Lenovo explora la creatividad de lo ordinario con una miniserie musical hecha con artistas en IA",
+   "link": "https://www.reasonwhy.es/actualidad/lenovo-explora-creatividad-ordinario-miniserie-inteligencia-artificial",
+   "excerpt": "La campaña forma parte de la plataforma “Made with Lenovo Yoga x Microsoft” y destaca las capacidades de su ordenador.",
+   "image": "https://www.reasonwhy.es/media/library/lenovo-ode-to-ordinary.jpg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T03:55-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "a714c316f7d2a6ad"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=202451",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Las Mirabal y los derechos de las mujeres: una memoria que interpela al presente",
+   "link": "https://www.ciperchile.cl/2026/11/25/las-mirabal-y-los-derechos-de-las-mujeres-una-memoria-que-interpela-al-presente/?utm_source=rss&utm_medium=rss&utm_campaign=las-mirabal-y-los-derechos-de-las-mujeres-una-memoria-que-interpela-al-presente",
+   "excerpt": "La entrada Las Mirabal y los derechos de las mujeres: una memoria que interpela al presente se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/A_UNO_1782903-scaled.jpg",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T22:45-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": true,
+   "article": "bdc9ee74a19248fa"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=202439",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Senado despacha a ley el Presupuesto 2027; Hermosilla declara que Chadwick habría hablado con Piñera para nombrar a Vivanco en la Suprema, y Castro y Vodanovic son imputados en caso firmas",
+   "link": "https://www.ciperchile.cl/2026/11/25/radar-25-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-25-11-26",
+   "excerpt": "La entrada Senado despacha a ley el Presupuesto 2027; Hermosilla declara que Chadwick habría hablado con Piñera para nombrar a Vivanco en la Suprema, y Castro y Vodanovic son imputados en caso firmas se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T20:25-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": true,
+   "article": "1f67657aa92c4e33"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/25/la-camara-federal-ordeno-seguir-investigando-a-los-hermanos-de-luis-caputo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La Cámara Federal ordenó seguir investigando a los hermanos de Luis Caputo",
+   "link": "https://www.filo.news/noticia/2026/11/25/la-camara-federal-ordeno-seguir-investigando-a-los-hermanos-de-luis-caputo",
+   "excerpt": "La querella plantea que los pagos por unos 6,5 millones de pesos hacia Jonathan Morel sirvieron para financiar marchas violentas y amenazas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/filo1-_2026-11-25t195641.0739124_re.png",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T19:58-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "fad035247169d07e"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/25/la-anmat-prohibio-un-medicamento-para-la-diabetes-2",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "La ANMAT prohibió un medicamento para la diabetes 2",
+   "link": "https://www.filo.news/noticia/2026/11/25/la-anmat-prohibio-un-medicamento-para-la-diabetes-2",
+   "excerpt": "El organismo ordenó suspender la elaboración, venta y uso de todos los productos con rosiglitazona, una droga ya prohibida en Europa.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/pill3440_re.jpg",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T19:17-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "7b6a8b1fd79ff242"
+  },
   {
    "id": "https://www.theverge.com/?p=1042221",
    "source": "The Verge · IA",
@@ -135,6 +261,20 @@ window.CIRCO = {
    "article": "0373e8337e820910"
   },
   {
+   "id": "https://www.ciperchile.cl/?p=202431",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Matías Walker ingresó indicación escrita por Sergio Yáber al proyecto de Ley de Notarios en 2023",
+   "link": "https://www.ciperchile.cl/2026/11/25/matias-walker-ingreso-indicacion-escrita-por-sergio-yaber-al-proyecto-de-ley-de-notarios-en-2023/?utm_source=rss&utm_medium=rss&utm_campaign=matias-walker-ingreso-indicacion-escrita-por-sergio-yaber-al-proyecto-de-ley-de-notarios-en-2023",
+   "excerpt": "La entrada Matías Walker ingresó indicación escrita por Sergio Yáber al proyecto de Ley de Notarios en 2023 se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/walker_web.png",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T17:18-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": true,
+   "article": "269b17da16d61565"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/25/villarruel",
    "source": "Filo.News",
    "category": "Notis",
@@ -177,10 +317,24 @@ window.CIRCO = {
    "article": "a0240666eb128522"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/25/mundial-sub-17-argentina-empato-con-dinamarca-y-avanzo-a-los-16avos-de-final",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Mundial Sub 17: Argentina empató con Dinamarca y avanzó a los 16avos de final",
+   "link": "https://www.filo.news/noticia/2026/11/25/mundial-sub-17-argentina-empato-con-dinamarca-y-avanzo-a-los-16avos-de-final",
+   "excerpt": "Los dirigidos por Diego Placente igualaron 3 a 3 ante los daneses y clasificaron como segundos del Grupo C.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/25/seleccinargentina_sub_172610_re.jpg",
+   "day": "2026-11-25",
+   "ts": "2026-11-25T15:55-03:00",
+   "first_seen": "2026-11-26",
+   "og_checked": false,
+   "article": "3c5b0fa217644a4e"
+  },
+  {
    "id": "https://www.applesfera.com/ios/ios-27-3-trae-algo-que-llevo-anos-esperando-modo-oscuro-para-todas-paginas-web",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "iOS 27.3 trae algo que llevo años esperando: modo oscuro para todas las páginas web",
+   "title": "iOS 27.3 soluciona una de las cosas más molestas de Safari: las webs que te deslumbran por la noche",
    "link": "https://www.applesfera.com/ios/ios-27-3-trae-algo-que-llevo-anos-esperando-modo-oscuro-para-todas-paginas-web",
    "excerpt": "Aún recuerdo cuando llegó el modo oscuro al iPhone. Parecía algo impensable, porque la estética de iOS siempre había sido intocable. Y ahora mira. Mucha gente vive con él y yo lo tengo en automático: claro de día y oscuro por la noche. Y seguro que te ha pasado. Estás con el…",
    "image": "https://i.blogs.es/c174ad/safari/1024_2000.jpeg",
@@ -348,7 +502,7 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/servicios-apple/ia-musica-era-problema-tidal-va-a-prohibirla-deberia-apple-music-hacer",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "La IA en la música era un problema y Tidal va a prohibirla. ¿Debería Apple Music hacer lo mismo?",
+   "title": "La música hecha por IA está desbordando las plataformas. ¿Debería Apple Music prohibirla?",
    "link": "https://www.applesfera.com/servicios-apple/ia-musica-era-problema-tidal-va-a-prohibirla-deberia-apple-music-hacer",
    "excerpt": "Durante años, la guerra entre los servicios de música estuvo en la calidad. Tidal fue de los primeros en ofrecer música sin pérdida , Apple acabó trayéndola y Spotify siguió años yendo por libre . Pero hoy en día la guerra está en otro sitio: en si detrás de una canción hay un…",
    "image": "https://i.blogs.es/a5592e/musica-ia-prohibida/1024_2000.jpeg",
@@ -586,9 +740,9 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/seleccion/no-nuevo-tiene-mejores-prestaciones-este-macbook-600-euros-chollos-top-back-market",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "No es nuevo ni tiene las mejores prestaciones, pero este MacBook por menos de 600 euros es de los chollos más top de Back Market",
+   "title": "No es nuevo ni tiene las mejores prestaciones, pero este MacBook por menos de 650 euros es de los chollos más top de Back Market",
    "link": "https://www.applesfera.com/seleccion/no-nuevo-tiene-mejores-prestaciones-este-macbook-600-euros-chollos-top-back-market",
-   "excerpt": "Han pasado ya varios meses desde que los MacBook subieron de precio y hasta el momento hemos visto muy pocas ofertas. Sin embargo, si no buscamos lo más actual y preferimos un ordenador que sea económico, Back Market tiene el MacBook Pro M1 por 577 euros . MacBook Pro M1 (8 GB,…",
+   "excerpt": "Han pasado ya varios meses desde que los MacBook subieron de precio y hasta el momento hemos visto muy pocas ofertas. Sin embargo, si no buscamos lo más actual y preferimos un ordenador que sea económico, Back Market tiene el MacBook Pro M1 por 626 euros . MacBook Pro M1 (8 GB,…",
    "image": "https://i.blogs.es/88982a/macbook-pro-m1/1024_2000.jpeg",
    "day": "2026-11-25",
    "ts": "2026-11-25T10:30-03:00",
@@ -600,7 +754,7 @@ window.CIRCO = {
    "id": "https://www.applesfera.com/apple-1/madera-apple-tiene-preparados-cuatro-lanzamientos-para-semana-que-viene",
    "source": "Applesfera",
    "category": "Mundo Apple",
-   "title": "Más madera: Apple tiene preparados cuatro lanzamientos para la semana que viene",
+   "title": "Parecía que Apple había cerrado el año. Los rumores hablan de cuatro lanzamientos más.",
    "link": "https://www.applesfera.com/apple-1/madera-apple-tiene-preparados-cuatro-lanzamientos-para-semana-que-viene",
    "excerpt": "Ayer ya se filtró que el 1 de diciembre Apple tenía preparado un par de sorpresas . Cuando creíamos que los lanzamientos habían terminado, quedaba hueco para una pequeña sorpresa navideña : la recuperación de los productos (PRODUCT)RED con unos AirPods Max 2 y un HomePod mini 2…",
    "image": "https://i.blogs.es/6f47e2/logo-apple-rojo/1024_2000.jpeg",
@@ -16869,20 +17023,6 @@ window.CIRCO = {
    "first_seen": "2026-11-09",
    "og_checked": false,
    "article": ""
-  },
-  {
-   "id": "https://bencorde.com/blog/ads-con-ia-grabacion-variantes-podcast-haciendola/",
-   "source": "Benjamín Cordero",
-   "category": "Tech + la IA",
-   "title": "Una grabación, muchas versiones de anuncios: así usamos IA en Imperio",
-   "link": "https://bencorde.com/blog/ads-con-ia-grabacion-variantes-podcast-haciendola/",
-   "excerpt": "Una conversación con Oski y Max sobre ads, caja y el sistema que usamos para aprovechar grabaciones, producir nuevas variantes y aprender de cada tanda.",
-   "image": "https://bencorde.com/blog/ads-con-ia-grabacion-variantes-podcast-haciendola/imagenes/portada.png",
-   "day": "2026-09-26",
-   "ts": "2026-09-26T13:51-03:00",
-   "first_seen": "2026-11-09",
-   "og_checked": true,
-   "article": "003d382472916044"
   }
  ]
 };
