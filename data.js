@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-27T16:21-03:00",
+ "updated": "2026-11-27T18:41-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,48 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.ciperchile.cl/?p=202515",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Lanzamiento Festival +CIPER UDP",
+   "link": "https://www.ciperchile.cl/2026/11/27/lanzamiento-festival-ciper-udp/?utm_source=rss&utm_medium=rss&utm_campaign=lanzamiento-festival-ciper-udp",
+   "excerpt": "La entrada Lanzamiento Festival +CIPER UDP se publicó primero en CIPER Chile .",
+   "image": "",
+   "day": "2026-11-27",
+   "ts": "2026-11-27T18:41-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": true,
+   "article": ""
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/27/mugre-cierra-el-ano-a-puro-pogo-y-anticipa-un-2027-cargado-de-festivales-y-giras",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "MUGRE cierra el año a puro pogo y anticipa un 2027 cargado de festivales y giras",
+   "link": "https://www.filo.news/noticia/2026/11/27/mugre-cierra-el-ano-a-puro-pogo-y-anticipa-un-2027-cargado-de-festivales-y-giras",
+   "excerpt": "Antes de su show del sábado 5 de diciembre en Palermo, el power trío porteño integrado por Jazmín Esquivel, Sofía Naara y Mariana Michi dialogó con Filo.news sobre la gestación de su segundo álbum homónimo, la coproducción con Tweety González y su desembarco en el Quilmes Rock.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/27/mugreprensa3_(1)6954_re.jpeg",
+   "day": "2026-11-27",
+   "ts": "2026-11-27T16:25-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "665ef606d0b86d2c"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/27/estrenos-filo-tres-series-que-llegan-esta-semana-al-streaming",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Estrenos Filo: tres series que llegan esta semana al streaming",
+   "link": "https://www.filo.news/noticia/2026/11/27/estrenos-filo-tres-series-que-llegan-esta-semana-al-streaming",
+   "excerpt": "Repasamos los lanzamientos más destacados para que puedas maratonear el fin de semana. ¿Cuál vas a elegir?",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/27/hunterschaferas_cora_in_blade_runner_2099_-_credit_clay_enos_for_prime_-_1_30005416_re.jpg",
+   "day": "2026-11-27",
+   "ts": "2026-11-27T16:07-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "7f54e4fc504529b1"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/27/rodrigo-lussich-recordo-a-su-amiga-merche-portillo-a-1-ano-de-su-muerte",
    "source": "Filo.News",
    "category": "Notis",
@@ -79,6 +121,20 @@ window.CIRCO = {
    "article": "fffae9bd142bd678"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/27/el-gobierno-oficializo-el-sistema-serca-para-fortalecer-la-red-electrica-nacional",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "El Gobierno oficializó el sistema SerCA para fortalecer la red eléctrica nacional",
+   "link": "https://www.filo.news/noticia/2026/11/27/el-gobierno-oficializo-el-sistema-serca-para-fortalecer-la-red-electrica-nacional",
+   "excerpt": "La nueva normativa apunta a reemplazar los esquemas de emergencia por licitaciones en las regiones más críticas.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/27/filo1-_2026-11-27t175705.1421360_re.png",
+   "day": "2026-11-27",
+   "ts": "2026-11-27T15:10-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "6c0404e17556e685"
+  },
+  {
    "id": "https://www.applesfera.com/seleccion/cuatro-mejor-que-uno-pack-airtag-2-cae-precio-picado-horas-antes-finalizar-black-friday",
    "source": "Applesfera",
    "category": "Mundo Apple",
@@ -91,6 +147,20 @@ window.CIRCO = {
    "first_seen": "2026-11-27",
    "og_checked": false,
    "article": "608a9434a781c897"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/27/misiones-passalacqua-rompio-con-el-frente-renovador-y-lanzo-su-candidatura-a-gobernador",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Misiones: Passalacqua rompió con el Frente Renovador y lanzó su candidatura a gobernador",
+   "link": "https://www.filo.news/noticia/2026/11/27/misiones-passalacqua-rompio-con-el-frente-renovador-y-lanzo-su-candidatura-a-gobernador",
+   "excerpt": "El jefe provincial liderará el Movimiento por lo que Viene y pidió mayor transparencia y control sobre las cuentas públicas misioneras.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/27/filo1-_2026-11-27t173653.2636705_re.png",
+   "day": "2026-11-27",
+   "ts": "2026-11-27T14:24-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "4decd8cafee47a08"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/27/abel-pintos-chapeux-francia-98-manu-capelli-y-mas-en-los-estrenos-de-la-semana",
@@ -119,6 +189,20 @@ window.CIRCO = {
    "first_seen": "2026-11-27",
    "og_checked": false,
    "article": "2ab6745ffbc727b5"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/27/bullrich-reafirmo-su-independencia-en-el-oficialismo-nunca-me-gusto-el-verticalismo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Bullrich reafirmó su independencia en el oficialismo: \"Nunca me gustó el verticalismo\"",
+   "link": "https://www.filo.news/noticia/2026/11/27/bullrich-reafirmo-su-independencia-en-el-oficialismo-nunca-me-gusto-el-verticalismo",
+   "excerpt": "La legisladora respaldó la suspensión de las PASO y reclamó bajar impuestos a comercios e industrias para complementar el RIGI.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/27/filo1-_2026-11-27t165724.3944564_re.png",
+   "day": "2026-11-27",
+   "ts": "2026-11-27T13:38-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "3e2760a7fa67e0d1"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/27/caen-el-riesgo-pais-y-el-dolar-tras-varias-ruedas-al-alza",
