@@ -1,5 +1,5 @@
 window.CIRCO = {
- "updated": "2026-11-26T18:59-03:00",
+ "updated": "2026-11-27T00:55-03:00",
  "sources": [
   {
    "name": "The Verge · Apple",
@@ -65,6 +65,62 @@ window.CIRCO = {
  "errors": [],
  "items": [
   {
+   "id": "https://www.filo.news/noticia/2026/11/26/artlab-presenta-piazzolla-atmosferas-una-experiencia-audiovisual",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Artlab presenta Piazzolla Atmósferas, una experiencia audiovisual",
+   "link": "https://www.filo.news/noticia/2026/11/26/artlab-presenta-piazzolla-atmosferas-una-experiencia-audiovisual",
+   "excerpt": "El ciclo, estrenado en el marco de MUTEK.AR Edición 8, continúa todos los sábados hasta febrero 2027 inclusive con cinco funciones de 40 minutos.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/27/piazzola4471_re.jpg",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T21:33-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "016ec0a3f8eb8ceb"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=202495",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Tesorería va a la justicia para forzar a hija de Pinochet a pagar impuestos a la herencia; TC despeja postergación de los SLEP, y senadora Campillai se querella contra exalto mando de Carabineros",
+   "link": "https://www.ciperchile.cl/2026/11/26/tesoreria-va-a-la-justicia-para-forzar-a-hija-de-pinochet-a-pagar-impuestos-a-la-herencia-tc-despeja-postergacion-de-los-slep-y-campillai-se-querella-contra-exalto-mando-de-carabineros/?utm_source=rss&utm_medium=rss&utm_campaign=tesoreria-va-a-la-justicia-para-forzar-a-hija-de-pinochet-a-pagar-impuestos-a-la-herencia-tc-despeja-postergacion-de-los-slep-y-campillai-se-querella-contra-exalto-mando-de-carabineros",
+   "excerpt": "La entrada Tesorería va a la justicia para forzar a hija de Pinochet a pagar impuestos a la herencia; TC despeja postergación de los SLEP, y senadora Campillai se querella contra exalto mando de Carabineros se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/banner-radar2.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T20:00-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": true,
+   "article": "ac93b36bbee8cc69"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/polemica-por-el-oro-la-agn-revelo-que-el-bcra-envio-1-000-barras-a-londres",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Polémica por el oro: la AGN reveló que el BCRA envió 1.000 barras a Londres",
+   "link": "https://www.filo.news/noticia/2026/11/26/polemica-por-el-oro-la-agn-revelo-que-el-bcra-envio-1-000-barras-a-londres",
+   "excerpt": "El organismo de control detectó que la entidad refundió 115 lingotes en 2024, cambió la naturaleza del activo y ocultó movimientos contables.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/filo1-_2026-11-26t204104.2958526_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T19:30-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "756ef745e36d463b"
+  },
+  {
+   "id": "https://www.ciperchile.cl/?p=202346",
+   "source": "CIPER",
+   "category": "Notis",
+   "title": "Chats de Hermosilla: suprema Ravanales habría opinado sobre inviabilidad del recurso a favor de Piñera en el caso Dominga",
+   "link": "https://www.ciperchile.cl/2026/11/26/chats-de-hermosilla-suprema-ravanales-habria-opinado-sobre-inviabilidad-del-recurso-a-favor-de-pinera-en-el-caso-dominga/?utm_source=rss&utm_medium=rss&utm_campaign=chats-de-hermosilla-suprema-ravanales-habria-opinado-sobre-inviabilidad-del-recurso-a-favor-de-pinera-en-el-caso-dominga",
+   "excerpt": "La entrada Chats de Hermosilla: suprema Ravanales habría opinado sobre inviabilidad del recurso a favor de Piñera en el caso Dominga se publicó primero en CIPER Chile .",
+   "image": "https://www.ciperchile.cl/wp-content/uploads/chat_hermosilla_suprema_web.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T19:02-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": true,
+   "article": "faf8a3f779dd6907"
+  },
+  {
    "id": "https://www.ciperchile.cl/?p=202483",
    "source": "CIPER",
    "category": "Notis",
@@ -77,6 +133,20 @@ window.CIRCO = {
    "first_seen": "2026-11-26",
    "og_checked": true,
    "article": "61f0aa1570da2349"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/conflicto-en-el-garrahan-trabajadores-convocan-a-un-cabildo-abierto-contra-las-sanciones",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Conflicto en el Garrahan: trabajadores convocan a un cabildo abierto contra las sanciones",
+   "link": "https://www.filo.news/noticia/2026/11/26/conflicto-en-el-garrahan-trabajadores-convocan-a-un-cabildo-abierto-contra-las-sanciones",
+   "excerpt": "El gremio APyT denunció un intento de silenciar a quienes frenaron el vaciamiento en 2025 y vinculó las medidas con el ajuste del Presupuesto 2027.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/filo1-_2026-11-26t195551.8889684_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T18:14-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "e505fffb0c7e2ee5"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/26/el-senado-dio-media-sancion-a-la-reforma-electoral",
@@ -107,6 +177,20 @@ window.CIRCO = {
    "article": "d0e134d71057ae75"
   },
   {
+   "id": "https://www.filo.news/noticia/2026/11/26/por-la-crisis-en-las-obras-sociales-la-cgt-marcho-y-apunto-contra-luis-caputo",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Por la crisis en las obras sociales, la CGT marchó y apuntó contra Luis Caputo",
+   "link": "https://www.filo.news/noticia/2026/11/26/por-la-crisis-en-las-obras-sociales-la-cgt-marcho-y-apunto-contra-luis-caputo",
+   "excerpt": "El cosecretario Cristian Jerónimo pidió la renuncia del ministro de Economía, mientras que Héctor Daer alertó por el ajuste en el sistema sanitario.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/filo1-_2026-11-26t193935.5668240_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T17:29-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "1bdd19ff6d52b9e3"
+  },
+  {
    "id": "https://www.filo.news/noticia/2026/11/26/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-qatar",
    "source": "Filo.News",
    "category": "Notis",
@@ -133,6 +217,20 @@ window.CIRCO = {
    "first_seen": "2026-11-26",
    "og_checked": false,
    "article": "ea66c6be1b279159"
+  },
+  {
+   "id": "https://www.filo.news/noticia/2026/11/26/quirno-apunto-contra-brasil-por-la-ruptura-diplomatica-y-hablo-sobre-malvinas",
+   "source": "Filo.News",
+   "category": "Notis",
+   "title": "Quirno apuntó contra Brasil por la ruptura diplomática y habló sobre Malvinas",
+   "link": "https://www.filo.news/noticia/2026/11/26/quirno-apunto-contra-brasil-por-la-ruptura-diplomatica-y-hablo-sobre-malvinas",
+   "excerpt": "El ministro adelantó que este sábado el Tribunal Internacional del Derecho del Mar resolverá el pedido argentino para frenar perforaciones petroleras.",
+   "image": "https://assets.dev-filo.dift.io/img/2026/11/26/filo1-_2026-11-26t192324.5827252_re.png",
+   "day": "2026-11-26",
+   "ts": "2026-11-26T16:44-03:00",
+   "first_seen": "2026-11-27",
+   "og_checked": false,
+   "article": "c7bdb68c33caece9"
   },
   {
    "id": "https://www.filo.news/noticia/2026/11/26/lionel-messi-estara-en-el-partido-despedida-de-carlos-tevez",
